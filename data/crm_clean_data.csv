@@ -1,0 +1,1001 @@
+Lead_ID,Lead_Source,Region,Industry,Company_Size,Sales_Agent,Number_of_Calls,Number_of_Emails,Last_Interaction_Days,Contacted,Response,Converted,Deal_Value,Date_Created,Engagement_Score,Recency,Lead_Age_Days
+LEAD_0001,LinkedIn,East,Finance,Medium,Priya,3.0,21.0,140,Yes,No Response,0,0.0,2025-02-20,37.5,Cold,440
+LEAD_0002,LinkedIn,North,Finance,Medium,Vikram,19.0,0.0,144,Yes,No Response,0,0.0,2025-10-12,38.0,Cold,206
+LEAD_0003,Email Campaign,West,Finance,Enterprise,Vikram,8.0,25.0,2,Yes,No Response,0,0.0,2024-11-02,53.5,Hot,550
+LEAD_0004,Website,South,Finance,Large,Amit,2.0,12.0,25,No,Negative,0,0.0,2025-02-21,22.0,Hot,439
+LEAD_0005,LinkedIn,West,Education,Small,Sneha,2.0,17.0,76,No,No Response,0,0.0,2025-06-21,29.5,Warm,319
+LEAD_0006,LinkedIn,North,Finance,Large,Amit,7.0,27.0,26,No,Negative,0,0.0,2025-02-28,54.5,Hot,432
+LEAD_0007,Website,South,Healthcare,Large,Priya,8.0,22.0,175,Yes,No Response,0,0.0,2024-09-10,49.0,Cold,603
+LEAD_0008,Email Campaign,South,Finance,Enterprise,Sneha,8.0,29.0,164,Yes,No Response,0,0.0,2024-06-02,59.5,Cold,703
+LEAD_0009,LinkedIn,South,Technology,Large,Sneha,8.0,2.0,55,No,Positive,0,0.0,2025-12-18,19.0,Warm,139
+LEAD_0010,Referral,South,Healthcare,Medium,Priya,17.0,17.0,68,No,No Response,1,62366.63,2025-04-24,59.5,Warm,377
+LEAD_0011,Cold Call,South,Education,Enterprise,Amit,1.0,27.0,29,Yes,No Response,0,0.0,2026-03-25,42.5,Hot,42
+LEAD_0012,Referral,Central,Technology,Enterprise,Sneha,19.0,14.0,136,No,No Response,0,0.0,2024-10-19,59.0,Cold,564
+LEAD_0013,LinkedIn,Central,Healthcare,Large,Amit,9.0,13.0,41,No,Positive,1,6664.75,2024-06-08,37.5,Warm,697
+LEAD_0014,Website,Central,Finance,Small,Neha,9.0,26.0,164,Yes,Positive,1,131998.68,2025-06-12,57.0,Cold,328
+LEAD_0015,Cold Call,Central,Education,Small,Vikram,10.0,15.0,5,Yes,Negative,0,0.0,2025-12-30,42.5,Hot,127
+LEAD_0016,Website,South,Technology,Medium,Vikram,2.0,2.0,125,Yes,No Response,1,125591.5,2024-05-19,7.0,Cold,717
+LEAD_0017,Referral,Central,Finance,Large,Vikram,19.0,13.0,55,Yes,No Response,1,23616.76,2025-06-04,57.5,Warm,336
+LEAD_0018,Website,West,Education,Enterprise,Amit,7.0,7.0,17,No,Positive,0,0.0,2025-12-05,24.5,Hot,152
+LEAD_0019,Cold Call,Central,Finance,Small,Amit,20.0,1.0,59,Yes,Positive,0,0.0,2025-07-08,41.5,Warm,302
+LEAD_0020,Cold Call,East,Retail,Medium,Vikram,4.0,23.0,147,No,Positive,1,15274.32,2026-05-05,42.5,Cold,1
+LEAD_0021,Cold Call,North,Technology,Enterprise,Rahul,13.0,13.0,120,Yes,No Response,1,122087.06,2026-02-20,45.5,Cold,75
+LEAD_0022,LinkedIn,West,Healthcare,Small,Priya,6.0,6.0,138,No,Positive,1,98696.06,2024-10-25,21.0,Cold,558
+LEAD_0023,Website,West,Finance,Small,Sneha,17.0,3.0,13,Yes,Positive,0,0.0,2026-04-20,38.5,Hot,16
+LEAD_0024,Cold Call,West,Retail,Enterprise,Priya,12.0,28.0,16,Yes,No Response,1,128060.88,2025-04-06,66.0,Hot,395
+LEAD_0025,Referral,East,Retail,Large,Sneha,17.0,21.0,125,Yes,Positive,0,0.0,2025-02-17,65.5,Cold,443
+LEAD_0026,LinkedIn,Central,Education,Small,Neha,10.0,1.0,13,No,No Response,0,0.0,2024-11-07,21.5,Hot,545
+LEAD_0027,LinkedIn,Central,Technology,Medium,Amit,19.0,2.0,173,Yes,Negative,1,82013.29,2024-10-21,41.0,Cold,562
+LEAD_0028,Email Campaign,South,Education,Small,Vikram,2.0,13.0,169,No,Negative,0,0.0,2025-05-14,23.5,Cold,357
+LEAD_0029,Website,South,Healthcare,Enterprise,Priya,20.0,9.0,118,No,Positive,0,0.0,2025-06-09,53.5,Cold,331
+LEAD_0030,Email Campaign,Central,Technology,Small,Vikram,6.0,16.0,68,Yes,Negative,0,0.0,2024-08-26,36.0,Warm,618
+LEAD_0031,Website,East,Finance,Enterprise,Vikram,9.0,19.0,168,Yes,No Response,1,132494.19,2025-02-20,46.5,Cold,440
+LEAD_0032,LinkedIn,South,Healthcare,Small,Amit,17.0,4.0,70,No,No Response,1,48409.92,2024-10-16,40.0,Warm,567
+LEAD_0033,Website,South,Healthcare,Enterprise,Rahul,1.0,0.0,163,No,Negative,0,0.0,2025-06-20,2.0,Cold,320
+LEAD_0034,Website,South,Healthcare,Medium,Neha,14.0,17.0,110,Yes,Positive,0,0.0,2025-01-09,53.5,Cold,482
+LEAD_0035,Cold Call,Central,Technology,Large,Vikram,17.0,4.0,111,Yes,Positive,0,0.0,2026-05-05,40.0,Cold,1
+LEAD_0036,LinkedIn,East,Finance,Medium,Neha,3.0,11.0,144,No,No Response,0,0.0,2024-08-10,22.5,Cold,634
+LEAD_0037,Cold Call,South,Finance,Enterprise,Amit,5.0,23.0,86,No,No Response,1,139235.75,2026-04-18,44.5,Warm,18
+LEAD_0038,Website,South,Technology,Enterprise,Amit,15.0,7.0,52,No,Negative,1,122558.65,2024-07-07,40.5,Warm,668
+LEAD_0039,Cold Call,South,Technology,Medium,Sneha,10.0,8.0,18,No,Negative,0,0.0,2025-06-07,32.0,Hot,333
+LEAD_0040,Referral,Central,Healthcare,Small,Amit,8.0,0.0,149,No,Positive,0,0.0,2025-11-19,16.0,Cold,168
+LEAD_0041,Referral,East,Healthcare,Enterprise,Vikram,16.0,3.0,99,Yes,Negative,0,0.0,2026-05-04,36.5,Cold,2
+LEAD_0042,Referral,North,Education,Medium,Rahul,13.0,2.0,171,No,No Response,0,0.0,2024-05-16,29.0,Cold,720
+LEAD_0043,LinkedIn,East,Education,Large,Neha,13.0,10.0,104,No,No Response,0,0.0,2024-08-14,41.0,Cold,630
+LEAD_0044,Referral,West,Finance,Large,Sneha,17.0,26.0,1,No,Negative,0,0.0,2025-01-22,73.0,Hot,469
+LEAD_0045,Email Campaign,Central,Healthcare,Enterprise,Sneha,14.0,21.0,55,No,No Response,0,0.0,2026-01-05,59.5,Warm,121
+LEAD_0046,LinkedIn,East,Education,Large,Amit,7.0,21.0,80,Yes,Positive,0,0.0,2025-07-09,45.5,Warm,301
+LEAD_0047,LinkedIn,South,Retail,Small,Sneha,13.0,28.0,162,Yes,No Response,0,0.0,2025-04-16,68.0,Cold,385
+LEAD_0048,Cold Call,South,Technology,Small,Sneha,7.0,5.0,179,No,Positive,1,76684.69,2025-02-09,21.5,Cold,451
+LEAD_0049,LinkedIn,West,Finance,Enterprise,Neha,16.0,17.0,153,No,Negative,0,0.0,2025-03-13,57.5,Cold,419
+LEAD_0050,Email Campaign,West,Education,Enterprise,Priya,15.0,14.0,67,Yes,No Response,0,0.0,2026-03-30,51.0,Warm,37
+LEAD_0051,Email Campaign,West,Finance,Large,Sneha,2.0,22.0,74,Yes,Negative,0,0.0,2025-01-27,37.0,Warm,464
+LEAD_0052,Email Campaign,North,Finance,Medium,Priya,12.0,22.0,40,Yes,Positive,0,0.0,2025-10-23,57.0,Warm,195
+LEAD_0053,Website,Central,Retail,Enterprise,Amit,6.0,26.0,108,No,No Response,0,0.0,2026-03-31,51.0,Cold,36
+LEAD_0054,Email Campaign,West,Retail,Small,Rahul,9.0,24.0,100,No,No Response,1,7832.13,2025-09-15,54.0,Cold,233
+LEAD_0055,Email Campaign,South,Retail,Medium,Rahul,13.0,15.0,8,No,Negative,1,84189.18,2025-03-15,48.5,Hot,417
+LEAD_0056,Cold Call,West,Finance,Small,Sneha,18.0,18.0,170,Yes,No Response,1,120730.64,2024-11-25,63.0,Cold,527
+LEAD_0057,Cold Call,West,Finance,Small,Rahul,12.0,10.0,55,No,Negative,0,0.0,2025-05-24,39.0,Warm,347
+LEAD_0058,Referral,East,Retail,Large,Amit,15.0,0.0,139,Yes,Negative,0,0.0,2025-04-27,30.0,Cold,374
+LEAD_0059,LinkedIn,North,Technology,Medium,Priya,0.0,19.0,40,Yes,Positive,0,0.0,2024-07-24,28.5,Warm,651
+LEAD_0060,LinkedIn,Central,Finance,Enterprise,Neha,8.0,24.0,95,Yes,No Response,0,0.0,2025-11-27,52.0,Cold,160
+LEAD_0061,LinkedIn,South,Healthcare,Small,Vikram,0.0,29.0,80,No,Negative,0,0.0,2026-01-17,43.5,Warm,109
+LEAD_0062,Email Campaign,South,Technology,Large,Neha,19.0,25.0,31,Yes,Negative,1,33757.82,2025-12-12,75.5,Warm,145
+LEAD_0063,Website,North,Education,Large,Amit,13.0,26.0,126,Yes,Negative,0,0.0,2024-12-11,65.0,Cold,511
+LEAD_0064,Referral,South,Retail,Medium,Neha,16.0,30.0,167,No,No Response,1,97159.84,2025-05-07,77.0,Cold,364
+LEAD_0065,Referral,West,Retail,Large,Rahul,7.0,26.0,23,No,Negative,1,83035.07,2024-10-01,53.0,Hot,582
+LEAD_0066,Referral,Central,Education,Enterprise,Rahul,0.0,15.0,84,Yes,Negative,0,0.0,2025-11-24,22.5,Warm,163
+LEAD_0067,Website,East,Healthcare,Large,Vikram,0.0,0.0,49,Yes,Positive,0,0.0,2024-06-06,0.0,Warm,699
+LEAD_0068,Cold Call,West,Retail,Enterprise,Amit,2.0,9.0,57,No,No Response,1,75843.79,2024-11-02,17.5,Warm,550
+LEAD_0069,Email Campaign,East,Retail,Large,Sneha,17.0,10.0,91,No,Negative,0,0.0,2026-03-10,49.0,Cold,57
+LEAD_0070,Cold Call,North,Finance,Large,Amit,17.0,30.0,177,Yes,Positive,0,0.0,2025-09-09,79.0,Cold,239
+LEAD_0071,Referral,East,Education,Large,Amit,6.0,9.0,59,No,No Response,0,0.0,2025-07-13,25.5,Warm,297
+LEAD_0072,Email Campaign,South,Healthcare,Small,Amit,17.0,9.0,179,Yes,No Response,0,0.0,2025-11-23,47.5,Cold,164
+LEAD_0073,LinkedIn,Central,Healthcare,Enterprise,Sneha,14.0,10.0,48,Yes,Negative,1,76177.41,2024-09-26,43.0,Warm,587
+LEAD_0074,LinkedIn,West,Retail,Small,Vikram,20.0,21.0,14,Yes,Positive,1,74270.73,2024-11-25,71.5,Hot,527
+LEAD_0075,LinkedIn,South,Technology,Enterprise,Vikram,0.0,25.0,159,Yes,No Response,1,142623.22,2025-05-13,37.5,Cold,358
+LEAD_0076,Referral,East,Education,Enterprise,Rahul,18.0,19.0,16,Yes,Positive,0,0.0,2026-01-25,64.5,Hot,101
+LEAD_0077,Website,North,Finance,Medium,Priya,17.0,2.0,41,Yes,Negative,0,0.0,2025-06-04,37.0,Warm,336
+LEAD_0078,Email Campaign,West,Healthcare,Small,Priya,9.0,22.0,73,No,Positive,0,0.0,2025-03-31,51.0,Warm,401
+LEAD_0079,Email Campaign,South,Retail,Small,Vikram,7.0,20.0,39,No,Positive,1,138967.1,2024-12-01,44.0,Warm,521
+LEAD_0080,Cold Call,East,Education,Large,Sneha,3.0,14.0,177,No,No Response,0,0.0,2025-07-19,27.0,Cold,291
+LEAD_0081,Website,Central,Education,Enterprise,Sneha,2.0,19.0,11,No,No Response,0,0.0,2025-06-01,32.5,Hot,339
+LEAD_0082,Website,North,Technology,Medium,Neha,18.0,18.0,6,No,No Response,0,0.0,2026-03-31,63.0,Hot,36
+LEAD_0083,Cold Call,West,Education,Enterprise,Rahul,5.0,18.0,112,No,Positive,0,0.0,2025-08-11,37.0,Cold,268
+LEAD_0084,Referral,East,Healthcare,Small,Priya,10.0,13.0,178,No,No Response,0,0.0,2025-10-30,39.5,Cold,188
+LEAD_0085,Email Campaign,North,Retail,Small,Rahul,8.0,10.0,30,No,No Response,1,63065.58,2024-09-20,31.0,Hot,593
+LEAD_0086,Email Campaign,West,Retail,Small,Priya,16.0,11.0,160,No,No Response,1,5166.9,2025-06-24,48.5,Cold,316
+LEAD_0087,LinkedIn,South,Healthcare,Medium,Rahul,14.0,28.0,179,No,Positive,0,0.0,2024-11-21,70.0,Cold,531
+LEAD_0088,Email Campaign,South,Finance,Large,Vikram,0.0,17.0,105,Yes,Positive,0,0.0,2025-12-31,25.5,Cold,126
+LEAD_0089,Referral,North,Finance,Enterprise,Neha,9.0,16.0,70,No,Negative,1,137374.83,2025-05-21,42.0,Warm,350
+LEAD_0090,Email Campaign,South,Retail,Medium,Vikram,16.0,23.0,35,Yes,Negative,1,40340.98,2026-04-27,66.5,Warm,9
+LEAD_0091,Website,Central,Healthcare,Small,Rahul,9.0,26.0,151,No,Positive,1,128889.8,2025-05-14,57.0,Cold,357
+LEAD_0092,Referral,East,Healthcare,Enterprise,Sneha,10.0,27.0,49,Yes,No Response,0,0.0,2025-12-19,60.5,Warm,138
+LEAD_0093,Referral,North,Healthcare,Enterprise,Neha,12.0,12.0,170,Yes,Negative,0,0.0,2024-06-23,42.0,Cold,682
+LEAD_0094,Email Campaign,East,Technology,Enterprise,Amit,16.0,29.0,117,Yes,No Response,1,23305.71,2024-11-03,75.5,Cold,549
+LEAD_0095,Cold Call,North,Retail,Large,Rahul,19.0,22.0,102,Yes,Negative,0,0.0,2024-09-21,71.0,Cold,592
+LEAD_0096,Referral,East,Retail,Small,Vikram,0.0,7.0,162,No,Positive,1,129604.62,2025-04-03,10.5,Cold,398
+LEAD_0097,LinkedIn,North,Retail,Medium,Neha,9.0,28.0,8,Yes,Negative,1,67925.86,2025-09-20,60.0,Hot,228
+LEAD_0098,Website,West,Finance,Medium,Vikram,13.0,18.0,175,Yes,Positive,1,47538.33,2024-11-16,53.0,Cold,536
+LEAD_0099,Email Campaign,West,Education,Medium,Sneha,18.0,4.0,60,No,No Response,0,0.0,2025-08-18,42.0,Warm,261
+LEAD_0100,Website,North,Retail,Large,Neha,17.0,5.0,19,No,Negative,0,0.0,2024-12-20,41.5,Hot,502
+LEAD_0101,Referral,East,Retail,Large,Priya,12.0,27.0,124,Yes,Positive,1,48377.37,2025-01-09,64.5,Cold,482
+LEAD_0102,Website,Central,Healthcare,Large,Amit,12.0,8.0,3,Yes,No Response,0,0.0,2025-05-21,36.0,Hot,350
+LEAD_0103,Website,South,Education,Large,Priya,20.0,6.0,159,No,No Response,1,125761.64,2024-05-23,49.0,Cold,713
+LEAD_0104,Cold Call,North,Technology,Large,Sneha,1.0,18.0,94,Yes,Positive,1,116283.26,2026-03-14,29.0,Cold,53
+LEAD_0105,Referral,South,Finance,Medium,Vikram,11.0,16.0,129,No,Positive,1,52374.27,2024-09-17,46.0,Cold,596
+LEAD_0106,Referral,East,Healthcare,Small,Sneha,2.0,4.0,58,No,No Response,0,0.0,2025-05-21,10.0,Warm,350
+LEAD_0107,Referral,North,Healthcare,Small,Sneha,11.0,21.0,173,No,No Response,0,0.0,2025-05-02,53.5,Cold,369
+LEAD_0108,Website,North,Finance,Enterprise,Amit,19.0,28.0,144,No,No Response,0,0.0,2025-09-13,80.0,Cold,235
+LEAD_0109,LinkedIn,West,Healthcare,Enterprise,Amit,4.0,1.0,10,No,Negative,0,0.0,2026-01-08,9.5,Hot,118
+LEAD_0110,Cold Call,Central,Finance,Enterprise,Sneha,11.0,21.0,179,No,No Response,0,0.0,2026-03-07,53.5,Cold,60
+LEAD_0111,Referral,North,Retail,Enterprise,Rahul,0.0,22.0,95,Yes,Negative,1,27405.82,2025-11-06,33.0,Cold,181
+LEAD_0112,Cold Call,East,Technology,Large,Vikram,0.0,11.0,16,No,Negative,0,0.0,2025-07-02,16.5,Hot,308
+LEAD_0113,LinkedIn,West,Technology,Medium,Neha,20.0,19.0,6,Yes,Negative,0,0.0,2025-06-14,68.5,Hot,326
+LEAD_0114,Cold Call,Central,Finance,Small,Vikram,6.0,18.0,56,Yes,Negative,0,0.0,2025-09-27,39.0,Warm,221
+LEAD_0115,Email Campaign,North,Healthcare,Medium,Priya,17.0,8.0,45,Yes,No Response,1,119353.34,2025-02-22,46.0,Warm,438
+LEAD_0116,Website,South,Education,Large,Amit,5.0,8.0,14,Yes,No Response,1,24111.47,2025-08-20,22.0,Hot,259
+LEAD_0117,LinkedIn,North,Retail,Enterprise,Rahul,16.0,18.0,28,No,No Response,0,0.0,2024-09-10,59.0,Hot,603
+LEAD_0118,Email Campaign,North,Education,Large,Sneha,20.0,0.0,8,Yes,Negative,0,0.0,2026-02-27,40.0,Hot,68
+LEAD_0119,LinkedIn,West,Retail,Small,Amit,10.0,19.0,38,Yes,Positive,1,66809.67,2024-09-21,48.5,Warm,592
+LEAD_0120,Email Campaign,Central,Healthcare,Enterprise,Vikram,16.0,9.0,117,No,Positive,0,0.0,2025-08-11,45.5,Cold,268
+LEAD_0121,Email Campaign,South,Retail,Enterprise,Priya,13.0,10.0,117,No,Negative,1,21590.04,2024-07-30,41.0,Cold,645
+LEAD_0122,Website,East,Healthcare,Medium,Neha,15.0,2.0,24,Yes,Positive,1,50319.51,2025-06-11,33.0,Hot,329
+LEAD_0123,Website,South,Education,Small,Vikram,17.0,17.0,85,Yes,Negative,0,0.0,2024-05-31,59.5,Warm,705
+LEAD_0124,Referral,North,Healthcare,Large,Rahul,3.0,18.0,130,Yes,Positive,0,0.0,2024-11-18,33.0,Cold,534
+LEAD_0125,LinkedIn,East,Education,Large,Amit,8.0,18.0,58,No,No Response,1,37515.51,2024-05-21,43.0,Warm,715
+LEAD_0126,Email Campaign,Central,Technology,Large,Amit,5.0,8.0,180,No,Negative,1,123671.89,2025-01-28,22.0,Cold,463
+LEAD_0127,Cold Call,South,Education,Enterprise,Amit,4.0,23.0,163,Yes,Positive,0,0.0,2025-07-12,42.5,Cold,298
+LEAD_0128,Referral,West,Healthcare,Medium,Rahul,9.0,23.0,84,Yes,Positive,1,36194.27,2025-12-26,52.5,Warm,131
+LEAD_0129,Email Campaign,North,Technology,Large,Sneha,13.0,15.0,156,No,Negative,0,0.0,2025-08-12,48.5,Cold,267
+LEAD_0130,Email Campaign,North,Healthcare,Enterprise,Amit,9.0,21.0,174,No,No Response,0,0.0,2024-12-23,49.5,Cold,499
+LEAD_0131,Referral,Central,Technology,Small,Priya,9.0,30.0,55,Yes,Negative,1,11585.52,2025-04-24,63.0,Warm,377
+LEAD_0132,LinkedIn,North,Retail,Enterprise,Priya,4.0,12.0,137,Yes,No Response,0,0.0,2026-04-10,26.0,Cold,26
+LEAD_0133,Website,North,Retail,Small,Sneha,0.0,14.0,20,No,No Response,0,0.0,2025-04-19,21.0,Hot,382
+LEAD_0134,Referral,West,Healthcare,Small,Sneha,0.0,30.0,84,Yes,No Response,0,0.0,2025-09-22,45.0,Warm,226
+LEAD_0135,Website,North,Retail,Small,Priya,13.0,18.0,103,Yes,Negative,0,0.0,2025-10-23,53.0,Cold,195
+LEAD_0136,Cold Call,East,Finance,Small,Vikram,20.0,3.0,136,Yes,Negative,1,113141.7,2025-10-17,44.5,Cold,201
+LEAD_0137,Cold Call,South,Technology,Medium,Rahul,6.0,5.0,155,Yes,No Response,0,0.0,2025-05-10,19.5,Cold,361
+LEAD_0138,Referral,West,Education,Enterprise,Neha,18.0,20.0,163,No,No Response,0,0.0,2026-01-21,66.0,Cold,105
+LEAD_0139,Referral,North,Retail,Enterprise,Neha,9.0,25.0,71,Yes,Negative,0,0.0,2025-09-01,55.5,Warm,247
+LEAD_0140,Website,West,Retail,Small,Amit,11.0,26.0,74,Yes,No Response,0,0.0,2025-10-15,61.0,Warm,203
+LEAD_0141,Email Campaign,Central,Education,Enterprise,Sneha,18.0,17.0,11,No,No Response,1,129017.54,2025-09-02,61.5,Hot,246
+LEAD_0142,Referral,Central,Finance,Small,Sneha,3.0,25.0,88,Yes,No Response,1,51621.38,2025-01-10,43.5,Warm,481
+LEAD_0143,LinkedIn,South,Retail,Enterprise,Vikram,16.0,19.0,41,No,Negative,0,0.0,2024-05-27,60.5,Warm,709
+LEAD_0144,Website,Central,Technology,Large,Amit,10.0,3.0,143,No,Negative,1,61175.4,2025-12-23,24.5,Cold,134
+LEAD_0145,Email Campaign,South,Healthcare,Small,Vikram,4.0,29.0,90,No,No Response,0,0.0,2026-02-13,51.5,Warm,82
+LEAD_0146,Email Campaign,North,Healthcare,Enterprise,Neha,10.0,26.0,33,Yes,No Response,1,61833.91,2025-12-13,59.0,Warm,144
+LEAD_0147,LinkedIn,East,Healthcare,Medium,Priya,10.0,30.0,125,Yes,Positive,1,78730.83,2024-09-27,65.0,Cold,586
+LEAD_0148,Website,North,Education,Small,Neha,10.0,28.0,159,Yes,No Response,1,27467.05,2024-06-26,62.0,Cold,679
+LEAD_0149,Cold Call,South,Education,Medium,Neha,14.0,1.0,106,No,No Response,0,0.0,2025-12-25,29.5,Cold,132
+LEAD_0150,Email Campaign,East,Retail,Medium,Vikram,7.0,0.0,121,Yes,Negative,1,145590.35,2025-10-10,14.0,Cold,208
+LEAD_0151,Referral,West,Healthcare,Enterprise,Vikram,16.0,13.0,42,Yes,No Response,1,87710.81,2026-02-23,51.5,Warm,72
+LEAD_0152,Website,North,Retail,Large,Vikram,3.0,22.0,133,Yes,Negative,0,0.0,2024-06-15,39.0,Cold,690
+LEAD_0153,Cold Call,East,Retail,Medium,Sneha,2.0,30.0,57,No,Negative,0,0.0,2026-02-14,49.0,Warm,81
+LEAD_0154,Referral,Central,Healthcare,Medium,Sneha,2.0,11.0,58,Yes,Negative,1,65160.05,2024-12-22,20.5,Warm,500
+LEAD_0155,Website,South,Finance,Small,Rahul,15.0,22.0,36,No,Negative,1,126680.56,2026-04-29,63.0,Warm,7
+LEAD_0156,LinkedIn,North,Healthcare,Medium,Priya,17.0,30.0,156,No,Positive,0,0.0,2024-12-30,79.0,Cold,492
+LEAD_0157,LinkedIn,North,Finance,Enterprise,Neha,19.0,14.0,17,Yes,Negative,1,39457.83,2024-08-02,59.0,Hot,642
+LEAD_0158,LinkedIn,Central,Education,Medium,Neha,4.0,9.0,110,Yes,No Response,0,0.0,2025-10-24,21.5,Cold,194
+LEAD_0159,Email Campaign,West,Finance,Small,Vikram,11.0,2.0,135,Yes,Negative,0,0.0,2024-07-03,25.0,Cold,672
+LEAD_0160,Referral,East,Healthcare,Small,Rahul,2.0,0.0,62,Yes,No Response,1,11312.49,2024-12-23,4.0,Warm,499
+LEAD_0161,LinkedIn,East,Education,Large,Neha,5.0,26.0,176,No,No Response,1,53215.2,2024-12-12,49.0,Cold,510
+LEAD_0162,Cold Call,South,Technology,Enterprise,Amit,9.0,6.0,12,Yes,Positive,0,0.0,2025-11-07,27.0,Hot,180
+LEAD_0163,Website,Central,Retail,Enterprise,Rahul,0.0,24.0,166,Yes,Negative,0,0.0,2026-01-19,36.0,Cold,107
+LEAD_0164,LinkedIn,East,Healthcare,Small,Rahul,13.0,28.0,103,No,Negative,0,0.0,2024-08-17,68.0,Cold,627
+LEAD_0165,Cold Call,West,Retail,Large,Vikram,8.0,25.0,22,No,Positive,0,0.0,2024-07-18,53.5,Hot,657
+LEAD_0166,Cold Call,Central,Healthcare,Large,Amit,2.0,10.0,170,No,Negative,0,0.0,2025-05-09,19.0,Cold,362
+LEAD_0167,Referral,South,Retail,Large,Sneha,1.0,23.0,91,No,Negative,0,0.0,2024-08-16,36.5,Cold,628
+LEAD_0168,LinkedIn,North,Retail,Large,Vikram,5.0,30.0,8,Yes,No Response,0,0.0,2024-09-08,55.0,Hot,605
+LEAD_0169,Cold Call,North,Finance,Large,Rahul,12.0,30.0,146,Yes,No Response,1,68535.06,2025-07-09,69.0,Cold,301
+LEAD_0170,Referral,East,Healthcare,Enterprise,Amit,18.0,4.0,136,No,Negative,0,0.0,2025-03-25,42.0,Cold,407
+LEAD_0171,Website,South,Technology,Small,Neha,5.0,15.0,133,No,No Response,0,0.0,2025-03-31,32.5,Cold,401
+LEAD_0172,Website,West,Finance,Large,Neha,15.0,6.0,32,Yes,Positive,0,0.0,2025-10-03,39.0,Warm,215
+LEAD_0173,Referral,North,Healthcare,Large,Neha,2.0,17.0,139,No,Negative,0,0.0,2026-02-07,29.5,Cold,88
+LEAD_0174,Cold Call,East,Education,Medium,Amit,6.0,25.0,36,Yes,Negative,1,108212.32,2024-12-01,49.5,Warm,521
+LEAD_0175,Email Campaign,Central,Healthcare,Enterprise,Vikram,4.0,19.0,23,Yes,Negative,0,0.0,2026-02-05,36.5,Hot,90
+LEAD_0176,Referral,Central,Retail,Enterprise,Vikram,2.0,4.0,82,Yes,Negative,0,0.0,2025-05-22,10.0,Warm,349
+LEAD_0177,Email Campaign,East,Finance,Medium,Priya,13.0,16.0,15,Yes,No Response,0,0.0,2024-06-04,50.0,Hot,701
+LEAD_0178,Cold Call,South,Healthcare,Medium,Rahul,16.0,28.0,73,Yes,Negative,0,0.0,2024-07-27,74.0,Warm,648
+LEAD_0179,Email Campaign,East,Finance,Large,Vikram,17.0,2.0,129,Yes,No Response,0,0.0,2024-06-25,37.0,Cold,680
+LEAD_0180,Email Campaign,Central,Healthcare,Small,Amit,2.0,1.0,165,No,No Response,1,27358.17,2025-07-14,5.5,Cold,296
+LEAD_0181,Email Campaign,West,Education,Small,Sneha,20.0,17.0,75,No,No Response,0,0.0,2025-12-02,65.5,Warm,155
+LEAD_0182,Referral,East,Retail,Small,Neha,1.0,5.0,113,No,Negative,0,0.0,2025-08-24,9.5,Cold,255
+LEAD_0183,Website,Central,Finance,Large,Neha,10.0,23.0,89,No,Positive,0,0.0,2026-01-30,54.5,Warm,96
+LEAD_0184,LinkedIn,East,Finance,Enterprise,Amit,8.0,14.0,64,Yes,Positive,1,79672.12,2024-10-27,37.0,Warm,556
+LEAD_0185,Referral,Central,Retail,Medium,Priya,0.0,29.0,148,No,Positive,0,0.0,2025-03-29,43.5,Cold,403
+LEAD_0186,Email Campaign,West,Retail,Large,Sneha,0.0,2.0,101,No,Positive,1,77248.5,2024-07-18,3.0,Cold,657
+LEAD_0187,Website,North,Technology,Large,Sneha,19.0,28.0,168,No,Negative,0,0.0,2025-03-16,80.0,Cold,416
+LEAD_0188,LinkedIn,West,Finance,Large,Neha,11.0,24.0,104,No,Positive,0,0.0,2025-11-21,58.0,Cold,166
+LEAD_0189,Email Campaign,Central,Finance,Large,Vikram,9.0,2.0,99,No,No Response,0,0.0,2026-03-23,21.0,Cold,44
+LEAD_0190,Email Campaign,Central,Technology,Medium,Amit,12.0,11.0,87,No,Positive,0,0.0,2025-06-16,40.5,Warm,324
+LEAD_0191,Email Campaign,West,Education,Small,Amit,1.0,4.0,86,No,No Response,0,0.0,2024-08-09,8.0,Warm,635
+LEAD_0192,Email Campaign,Central,Finance,Large,Vikram,10.0,5.0,101,No,No Response,0,0.0,2025-07-23,27.5,Cold,287
+LEAD_0193,Email Campaign,Central,Retail,Large,Sneha,0.0,11.0,85,Yes,Negative,0,0.0,2025-09-24,16.5,Warm,224
+LEAD_0194,LinkedIn,Central,Retail,Large,Neha,18.0,18.0,59,Yes,No Response,0,0.0,2026-03-14,63.0,Warm,53
+LEAD_0195,Email Campaign,Central,Retail,Medium,Neha,7.0,1.0,147,Yes,Positive,0,0.0,2024-08-10,15.5,Cold,634
+LEAD_0196,Website,West,Finance,Enterprise,Neha,6.0,13.0,129,No,No Response,0,0.0,2025-05-23,31.5,Cold,348
+LEAD_0197,Email Campaign,South,Education,Large,Neha,15.0,16.0,97,No,Positive,1,107337.41,2024-10-31,54.0,Cold,552
+LEAD_0198,Email Campaign,East,Education,Large,Neha,20.0,25.0,178,No,No Response,0,0.0,2026-03-09,77.5,Cold,58
+LEAD_0199,Cold Call,East,Education,Large,Priya,9.0,24.0,74,Yes,No Response,0,0.0,2024-08-24,54.0,Warm,620
+LEAD_0200,Website,Central,Healthcare,Large,Amit,18.0,21.0,140,No,Negative,1,50970.91,2025-01-15,67.5,Cold,476
+LEAD_0201,Cold Call,East,Technology,Large,Neha,2.0,11.0,114,No,No Response,1,143418.29,2025-04-22,20.5,Cold,379
+LEAD_0202,Cold Call,Central,Healthcare,Large,Priya,3.0,19.0,151,Yes,Positive,0,0.0,2026-01-04,34.5,Cold,122
+LEAD_0203,Email Campaign,South,Finance,Small,Amit,13.0,10.0,121,Yes,No Response,0,0.0,2024-06-30,41.0,Cold,675
+LEAD_0204,Email Campaign,South,Retail,Enterprise,Sneha,20.0,6.0,74,No,Negative,1,5751.31,2024-05-16,49.0,Warm,720
+LEAD_0205,LinkedIn,Central,Finance,Small,Priya,13.0,0.0,46,Yes,Negative,0,0.0,2024-09-29,26.0,Warm,584
+LEAD_0206,Website,North,Technology,Large,Vikram,19.0,3.0,86,No,Negative,1,32015.19,2025-08-14,42.5,Warm,265
+LEAD_0207,Referral,South,Education,Enterprise,Rahul,6.0,25.0,29,No,Positive,1,83778.57,2026-02-04,49.5,Hot,91
+LEAD_0208,Cold Call,North,Healthcare,Large,Vikram,6.0,5.0,157,No,Negative,1,99001.37,2024-07-08,19.5,Cold,667
+LEAD_0209,LinkedIn,West,Technology,Medium,Priya,15.0,10.0,64,Yes,Negative,0,0.0,2025-07-07,45.0,Warm,303
+LEAD_0210,Referral,East,Healthcare,Large,Vikram,18.0,0.0,67,No,No Response,0,0.0,2026-04-25,36.0,Warm,11
+LEAD_0211,LinkedIn,West,Healthcare,Medium,Sneha,16.0,29.0,80,Yes,No Response,0,0.0,2025-02-26,75.5,Warm,434
+LEAD_0212,Email Campaign,South,Finance,Medium,Sneha,4.0,14.0,156,No,Negative,1,47780.45,2024-06-09,29.0,Cold,696
+LEAD_0213,Email Campaign,South,Finance,Small,Vikram,14.0,16.0,93,Yes,No Response,1,137355.55,2025-09-17,52.0,Cold,231
+LEAD_0214,Email Campaign,Central,Finance,Medium,Priya,10.0,27.0,134,No,Positive,0,0.0,2026-03-24,60.5,Cold,43
+LEAD_0215,Referral,North,Education,Enterprise,Amit,14.0,4.0,132,No,Negative,1,108953.11,2024-12-30,34.0,Cold,492
+LEAD_0216,Email Campaign,West,Healthcare,Small,Sneha,8.0,26.0,1,Yes,No Response,0,0.0,2026-02-17,55.0,Hot,78
+LEAD_0217,Referral,East,Technology,Small,Amit,15.0,1.0,74,No,No Response,0,0.0,2024-11-19,31.5,Warm,533
+LEAD_0218,Referral,East,Retail,Enterprise,Sneha,12.0,0.0,175,Yes,No Response,1,116045.01,2026-05-01,24.0,Cold,5
+LEAD_0219,Email Campaign,West,Education,Medium,Neha,7.0,0.0,1,Yes,No Response,1,22201.81,2025-10-23,14.0,Hot,195
+LEAD_0220,Email Campaign,West,Education,Enterprise,Priya,7.0,14.0,89,Yes,Negative,0,0.0,2025-12-18,35.0,Warm,139
+LEAD_0221,LinkedIn,North,Retail,Small,Priya,6.0,2.0,26,Yes,Negative,0,0.0,2025-07-25,15.0,Hot,285
+LEAD_0222,LinkedIn,South,Technology,Enterprise,Sneha,7.0,17.0,56,Yes,Positive,0,0.0,2025-07-31,39.5,Warm,279
+LEAD_0223,Website,South,Education,Large,Vikram,19.0,24.0,173,No,Positive,0,0.0,2026-01-26,74.0,Cold,100
+LEAD_0224,Cold Call,Central,Finance,Enterprise,Rahul,8.0,1.0,143,Yes,No Response,0,0.0,2025-10-03,17.5,Cold,215
+LEAD_0225,LinkedIn,East,Retail,Large,Neha,13.0,13.0,39,No,Negative,1,85598.35,2025-09-09,45.5,Warm,239
+LEAD_0226,Email Campaign,West,Finance,Medium,Rahul,4.0,25.0,119,Yes,No Response,0,0.0,2026-03-08,45.5,Cold,59
+LEAD_0227,Referral,Central,Education,Medium,Sneha,7.0,8.0,53,No,No Response,0,0.0,2025-01-21,26.0,Warm,470
+LEAD_0228,Referral,East,Technology,Medium,Amit,8.0,12.0,173,Yes,Positive,0,0.0,2024-09-30,34.0,Cold,583
+LEAD_0229,Email Campaign,Central,Finance,Enterprise,Priya,0.0,9.0,4,Yes,Positive,0,0.0,2025-11-18,13.5,Hot,169
+LEAD_0230,Referral,South,Education,Medium,Sneha,7.0,17.0,83,No,Negative,1,22010.85,2024-11-07,39.5,Warm,545
+LEAD_0231,Website,East,Healthcare,Large,Vikram,15.0,14.0,26,No,Negative,0,0.0,2024-05-07,51.0,Hot,729
+LEAD_0232,Referral,North,Education,Medium,Neha,4.0,0.0,67,No,Negative,1,58752.21,2026-04-21,8.0,Warm,15
+LEAD_0233,Website,South,Retail,Medium,Sneha,17.0,20.0,176,No,Negative,0,0.0,2025-09-25,64.0,Cold,223
+LEAD_0234,Referral,West,Finance,Large,Priya,4.0,23.0,140,No,Positive,1,75850.06,2025-02-04,42.5,Cold,456
+LEAD_0235,LinkedIn,Central,Technology,Small,Neha,1.0,24.0,2,No,Positive,1,83609.84,2025-11-03,38.0,Hot,184
+LEAD_0236,Cold Call,North,Finance,Enterprise,Rahul,1.0,19.0,164,No,No Response,1,38557.84,2025-08-27,30.5,Cold,252
+LEAD_0237,LinkedIn,Central,Education,Enterprise,Amit,0.0,16.0,71,No,Positive,0,0.0,2025-04-21,24.0,Warm,380
+LEAD_0238,Referral,South,Technology,Small,Vikram,4.0,7.0,50,No,Negative,0,0.0,2025-12-09,18.5,Warm,148
+LEAD_0239,Referral,North,Healthcare,Enterprise,Sneha,18.0,7.0,179,Yes,Negative,0,0.0,2026-01-15,46.5,Cold,111
+LEAD_0240,LinkedIn,North,Retail,Enterprise,Sneha,17.0,15.0,15,Yes,No Response,1,127940.73,2024-10-05,56.5,Hot,578
+LEAD_0241,Referral,West,Healthcare,Small,Vikram,1.0,7.0,55,No,Negative,0,0.0,2024-07-18,12.5,Warm,657
+LEAD_0242,LinkedIn,East,Education,Small,Priya,10.0,0.0,54,Yes,No Response,0,0.0,2024-12-22,20.0,Warm,500
+LEAD_0243,Website,South,Education,Medium,Vikram,12.0,21.0,139,No,Negative,1,139686.87,2024-06-10,55.5,Cold,695
+LEAD_0244,LinkedIn,Central,Healthcare,Small,Amit,13.0,7.0,20,No,No Response,1,25292.84,2025-07-16,36.5,Hot,294
+LEAD_0245,Referral,East,Technology,Large,Sneha,15.0,7.0,92,No,Negative,1,143454.47,2024-07-26,40.5,Cold,649
+LEAD_0246,Email Campaign,West,Technology,Large,Priya,2.0,2.0,69,Yes,Negative,0,0.0,2025-03-01,7.0,Warm,431
+LEAD_0247,Referral,East,Healthcare,Small,Amit,0.0,30.0,79,No,Negative,1,96915.63,2025-10-07,45.0,Warm,211
+LEAD_0248,LinkedIn,South,Retail,Enterprise,Vikram,17.0,16.0,105,Yes,Positive,1,19823.56,2024-09-29,58.0,Cold,584
+LEAD_0249,Email Campaign,North,Education,Large,Sneha,0.0,9.0,106,No,Positive,0,0.0,2025-11-11,13.5,Cold,176
+LEAD_0250,Cold Call,Central,Education,Medium,Neha,12.0,5.0,36,No,Negative,1,86132.8,2025-09-30,31.5,Warm,218
+LEAD_0251,Cold Call,North,Finance,Enterprise,Rahul,13.0,9.0,124,Yes,Negative,0,0.0,2024-05-07,39.5,Cold,729
+LEAD_0252,Cold Call,West,Education,Medium,Sneha,3.0,4.0,78,Yes,Negative,0,0.0,2026-05-05,12.0,Warm,1
+LEAD_0253,Email Campaign,West,Healthcare,Enterprise,Rahul,13.0,26.0,167,Yes,Negative,0,0.0,2025-08-02,65.0,Cold,277
+LEAD_0254,Cold Call,West,Healthcare,Medium,Sneha,10.0,9.0,178,No,No Response,0,0.0,2026-02-20,33.5,Cold,75
+LEAD_0255,Website,West,Healthcare,Small,Vikram,6.0,18.0,140,Yes,No Response,1,52253.5,2025-01-23,39.0,Cold,468
+LEAD_0256,Referral,South,Retail,Large,Neha,2.0,26.0,105,No,Positive,1,8902.84,2025-10-31,43.0,Cold,187
+LEAD_0257,Cold Call,East,Finance,Enterprise,Sneha,2.0,14.0,154,No,No Response,0,0.0,2026-03-23,25.0,Cold,44
+LEAD_0258,Email Campaign,West,Education,Small,Rahul,17.0,19.0,164,Yes,Positive,0,0.0,2026-05-04,62.5,Cold,2
+LEAD_0259,Website,South,Education,Small,Vikram,20.0,21.0,166,No,No Response,1,100352.24,2024-10-19,71.5,Cold,564
+LEAD_0260,LinkedIn,North,Healthcare,Medium,Vikram,16.0,17.0,149,Yes,Negative,1,67416.05,2025-05-27,57.5,Cold,344
+LEAD_0261,Referral,Central,Education,Medium,Rahul,0.0,15.0,27,No,Negative,0,0.0,2025-07-10,22.5,Hot,300
+LEAD_0262,Cold Call,East,Healthcare,Large,Sneha,6.0,16.0,124,No,Negative,1,17448.95,2024-09-22,36.0,Cold,591
+LEAD_0263,Referral,East,Technology,Large,Amit,3.0,0.0,88,Yes,No Response,0,0.0,2024-10-31,6.0,Warm,552
+LEAD_0264,Cold Call,Central,Finance,Medium,Rahul,17.0,13.0,119,Yes,Negative,1,139838.75,2024-07-10,53.5,Cold,665
+LEAD_0265,Cold Call,West,Retail,Small,Neha,19.0,28.0,51,No,No Response,0,0.0,2026-04-27,80.0,Warm,9
+LEAD_0266,LinkedIn,South,Finance,Large,Neha,2.0,18.0,27,Yes,Negative,0,0.0,2025-10-17,31.0,Hot,201
+LEAD_0267,Referral,North,Healthcare,Enterprise,Vikram,20.0,10.0,153,No,No Response,0,0.0,2024-10-04,55.0,Cold,579
+LEAD_0268,LinkedIn,East,Healthcare,Enterprise,Vikram,5.0,26.0,173,No,No Response,0,0.0,2026-04-06,49.0,Cold,30
+LEAD_0269,Cold Call,East,Technology,Medium,Rahul,3.0,5.0,96,Yes,No Response,0,0.0,2025-08-30,13.5,Cold,249
+LEAD_0270,Email Campaign,South,Education,Enterprise,Sneha,5.0,15.0,163,Yes,No Response,0,0.0,2024-12-26,32.5,Cold,496
+LEAD_0271,Website,South,Finance,Large,Sneha,19.0,1.0,92,Yes,Negative,0,0.0,2024-05-07,39.5,Cold,729
+LEAD_0272,Referral,Central,Education,Enterprise,Sneha,15.0,13.0,114,No,Positive,0,0.0,2024-09-19,49.5,Cold,594
+LEAD_0273,LinkedIn,South,Healthcare,Small,Rahul,7.0,17.0,74,Yes,Negative,0,0.0,2025-04-10,39.5,Warm,391
+LEAD_0274,Referral,Central,Education,Small,Vikram,3.0,8.0,140,No,No Response,0,0.0,2024-09-15,18.0,Cold,598
+LEAD_0275,Referral,Central,Finance,Enterprise,Amit,20.0,24.0,64,No,Positive,1,11033.53,2024-08-23,76.0,Warm,621
+LEAD_0276,Website,North,Retail,Small,Priya,6.0,25.0,151,No,No Response,0,0.0,2024-08-08,49.5,Cold,636
+LEAD_0277,Referral,South,Education,Medium,Priya,6.0,25.0,16,No,No Response,0,0.0,2025-02-04,49.5,Hot,456
+LEAD_0278,Email Campaign,South,Healthcare,Large,Rahul,18.0,8.0,132,Yes,Positive,0,0.0,2024-08-13,48.0,Cold,631
+LEAD_0279,LinkedIn,East,Finance,Medium,Priya,4.0,22.0,83,Yes,No Response,1,118925.2,2024-11-19,41.0,Warm,533
+LEAD_0280,Cold Call,Central,Healthcare,Enterprise,Sneha,14.0,2.0,163,Yes,Negative,0,0.0,2024-08-13,31.0,Cold,631
+LEAD_0281,Website,East,Retail,Enterprise,Rahul,18.0,0.0,24,No,No Response,0,0.0,2026-03-15,36.0,Hot,52
+LEAD_0282,LinkedIn,Central,Retail,Medium,Sneha,6.0,15.0,69,No,Negative,1,56942.3,2025-03-12,34.5,Warm,420
+LEAD_0283,Email Campaign,South,Education,Enterprise,Rahul,1.0,1.0,26,No,Positive,0,0.0,2026-01-20,3.5,Hot,106
+LEAD_0284,Cold Call,West,Retail,Small,Sneha,6.0,22.0,34,No,Positive,0,0.0,2025-04-06,45.0,Warm,395
+LEAD_0285,LinkedIn,East,Healthcare,Small,Rahul,20.0,5.0,14,No,No Response,1,132106.28,2025-01-09,47.5,Hot,482
+LEAD_0286,Cold Call,West,Technology,Small,Amit,6.0,0.0,20,Yes,No Response,0,0.0,2024-07-03,12.0,Hot,672
+LEAD_0287,Referral,North,Technology,Large,Amit,13.0,22.0,34,No,Positive,0,0.0,2025-12-10,59.0,Warm,147
+LEAD_0288,LinkedIn,North,Technology,Large,Rahul,9.0,4.0,98,Yes,No Response,0,0.0,2025-12-16,24.0,Cold,141
+LEAD_0289,Email Campaign,Central,Technology,Medium,Sneha,11.0,23.0,55,Yes,Negative,1,25713.69,2025-01-25,56.5,Warm,466
+LEAD_0290,Referral,South,Technology,Small,Priya,3.0,18.0,99,No,Negative,0,0.0,2025-11-19,33.0,Cold,168
+LEAD_0291,Cold Call,South,Healthcare,Small,Priya,17.0,19.0,154,No,No Response,0,0.0,2025-10-06,62.5,Cold,212
+LEAD_0292,Website,South,Education,Medium,Neha,12.0,9.0,166,Yes,Positive,0,0.0,2025-01-09,37.5,Cold,482
+LEAD_0293,LinkedIn,South,Retail,Small,Vikram,0.0,11.0,82,Yes,Negative,0,0.0,2025-09-18,16.5,Warm,230
+LEAD_0294,Website,Central,Finance,Enterprise,Amit,0.0,18.0,18,Yes,Negative,1,87415.16,2024-09-11,27.0,Hot,602
+LEAD_0295,LinkedIn,West,Education,Large,Neha,16.0,24.0,107,No,No Response,0,0.0,2024-08-17,68.0,Cold,627
+LEAD_0296,Email Campaign,Central,Education,Medium,Rahul,2.0,9.0,21,Yes,Positive,0,0.0,2024-09-17,17.5,Hot,596
+LEAD_0297,Referral,Central,Technology,Large,Neha,13.0,23.0,62,Yes,Positive,0,0.0,2025-04-22,60.5,Warm,379
+LEAD_0298,Referral,North,Retail,Small,Rahul,5.0,3.0,4,Yes,No Response,0,0.0,2025-01-04,14.5,Hot,487
+LEAD_0299,Referral,East,Education,Large,Priya,11.0,4.0,69,Yes,Positive,0,0.0,2025-01-22,28.0,Warm,469
+LEAD_0300,Referral,East,Education,Small,Rahul,18.0,20.0,20,No,Negative,0,0.0,2024-09-22,66.0,Hot,591
+LEAD_0301,LinkedIn,West,Education,Medium,Rahul,5.0,8.0,27,Yes,Positive,0,0.0,2025-06-19,22.0,Hot,321
+LEAD_0302,LinkedIn,South,Technology,Enterprise,Rahul,12.0,29.0,39,Yes,Positive,1,5372.43,2025-04-25,67.5,Warm,376
+LEAD_0303,Referral,South,Healthcare,Medium,Sneha,10.0,8.0,20,No,Positive,0,0.0,2026-05-02,32.0,Hot,4
+LEAD_0304,LinkedIn,South,Finance,Small,Sneha,2.0,28.0,120,No,Negative,0,0.0,2025-12-09,46.0,Cold,148
+LEAD_0305,Email Campaign,West,Technology,Large,Priya,9.0,18.0,78,Yes,Negative,0,0.0,2025-03-12,45.0,Warm,420
+LEAD_0306,Referral,South,Education,Medium,Priya,0.0,29.0,105,Yes,No Response,0,0.0,2026-04-15,43.5,Cold,21
+LEAD_0307,LinkedIn,East,Technology,Enterprise,Neha,9.0,3.0,53,Yes,Negative,0,0.0,2025-02-17,22.5,Warm,443
+LEAD_0308,LinkedIn,South,Healthcare,Small,Amit,7.0,28.0,134,No,No Response,0,0.0,2025-07-16,56.0,Cold,294
+LEAD_0309,LinkedIn,Central,Technology,Medium,Neha,12.0,2.0,152,Yes,Negative,1,71476.41,2025-01-28,27.0,Cold,463
+LEAD_0310,Website,East,Healthcare,Enterprise,Neha,10.0,10.0,116,No,Positive,1,23952.7,2026-01-26,35.0,Cold,100
+LEAD_0311,Cold Call,South,Education,Small,Priya,3.0,5.0,116,No,Negative,0,0.0,2025-10-06,13.5,Cold,212
+LEAD_0312,Email Campaign,East,Finance,Enterprise,Rahul,14.0,8.0,31,Yes,Positive,0,0.0,2025-07-28,40.0,Warm,282
+LEAD_0313,Email Campaign,North,Finance,Large,Priya,2.0,22.0,64,No,Negative,1,49111.17,2025-04-10,37.0,Warm,391
+LEAD_0314,Website,East,Finance,Small,Sneha,14.0,17.0,141,Yes,Positive,0,0.0,2025-01-03,53.5,Cold,488
+LEAD_0315,Cold Call,North,Technology,Small,Priya,4.0,6.0,103,No,No Response,0,0.0,2024-11-19,17.0,Cold,533
+LEAD_0316,LinkedIn,Central,Education,Large,Amit,0.0,2.0,51,No,Positive,0,0.0,2025-08-05,3.0,Warm,274
+LEAD_0317,Website,North,Technology,Enterprise,Amit,5.0,29.0,147,No,No Response,0,0.0,2024-11-11,53.5,Cold,541
+LEAD_0318,LinkedIn,West,Retail,Medium,Rahul,6.0,29.0,48,No,Negative,0,0.0,2024-10-24,55.5,Warm,559
+LEAD_0319,Cold Call,North,Education,Medium,Neha,9.0,15.0,106,No,Positive,0,0.0,2025-02-19,40.5,Cold,441
+LEAD_0320,Referral,South,Retail,Medium,Neha,16.0,7.0,162,Yes,Negative,0,0.0,2024-05-15,42.5,Cold,721
+LEAD_0321,Email Campaign,West,Healthcare,Large,Sneha,8.0,5.0,7,No,No Response,1,57071.26,2025-08-22,23.5,Hot,257
+LEAD_0322,Website,North,Retail,Large,Vikram,7.0,5.0,26,Yes,No Response,0,0.0,2024-07-05,21.5,Hot,670
+LEAD_0323,Email Campaign,North,Finance,Enterprise,Rahul,5.0,5.0,61,No,No Response,0,0.0,2024-08-31,17.5,Warm,613
+LEAD_0324,LinkedIn,East,Education,Medium,Vikram,6.0,26.0,127,No,Positive,1,137527.1,2024-05-12,51.0,Cold,724
+LEAD_0325,LinkedIn,North,Finance,Medium,Amit,16.0,0.0,1,No,No Response,0,0.0,2024-06-27,32.0,Hot,678
+LEAD_0326,Cold Call,East,Finance,Large,Amit,0.0,4.0,151,Yes,Positive,0,0.0,2025-10-13,6.0,Cold,205
+LEAD_0327,LinkedIn,East,Retail,Small,Rahul,9.0,10.0,35,Yes,No Response,1,129797.07,2025-03-29,33.0,Warm,403
+LEAD_0328,Referral,East,Finance,Large,Priya,18.0,0.0,45,No,Negative,1,119817.17,2025-04-29,36.0,Warm,372
+LEAD_0329,Cold Call,North,Education,Enterprise,Vikram,1.0,5.0,155,No,No Response,1,47705.0,2025-01-22,9.5,Cold,469
+LEAD_0330,Email Campaign,North,Retail,Medium,Rahul,2.0,7.0,89,No,Positive,0,0.0,2025-12-15,14.5,Warm,142
+LEAD_0331,LinkedIn,East,Retail,Small,Rahul,6.0,7.0,178,Yes,Negative,0,0.0,2024-07-01,22.5,Cold,674
+LEAD_0332,LinkedIn,North,Technology,Enterprise,Sneha,13.0,5.0,106,No,Negative,0,0.0,2026-01-04,33.5,Cold,122
+LEAD_0333,Referral,North,Retail,Medium,Priya,14.0,2.0,9,No,Positive,0,0.0,2025-07-10,31.0,Hot,300
+LEAD_0334,LinkedIn,North,Healthcare,Medium,Sneha,5.0,23.0,20,Yes,Negative,0,0.0,2024-12-18,44.5,Hot,504
+LEAD_0335,Email Campaign,West,Technology,Enterprise,Neha,5.0,19.0,112,Yes,Positive,0,0.0,2024-05-25,38.5,Cold,711
+LEAD_0336,Cold Call,South,Retail,Large,Neha,9.0,9.0,61,Yes,Positive,0,0.0,2025-08-25,31.5,Warm,254
+LEAD_0337,Email Campaign,West,Finance,Small,Rahul,0.0,0.0,23,No,No Response,0,0.0,2025-11-08,0.0,Hot,179
+LEAD_0338,Referral,South,Technology,Small,Priya,5.0,20.0,75,Yes,Negative,0,0.0,2024-08-15,40.0,Warm,629
+LEAD_0339,Referral,West,Retail,Large,Amit,20.0,17.0,100,Yes,Negative,1,49711.24,2024-06-04,65.5,Cold,701
+LEAD_0340,Referral,North,Healthcare,Enterprise,Sneha,8.0,7.0,69,Yes,Positive,1,58563.24,2025-08-25,26.5,Warm,254
+LEAD_0341,LinkedIn,East,Education,Enterprise,Vikram,7.0,17.0,16,No,No Response,1,101782.93,2025-08-30,39.5,Hot,249
+LEAD_0342,Email Campaign,West,Education,Medium,Sneha,9.0,2.0,102,Yes,No Response,0,0.0,2024-08-18,21.0,Cold,626
+LEAD_0343,Email Campaign,Central,Education,Medium,Amit,14.0,5.0,43,Yes,Positive,0,0.0,2026-03-04,35.5,Warm,63
+LEAD_0344,Referral,North,Retail,Medium,Neha,4.0,26.0,153,No,Negative,0,0.0,2025-08-23,47.0,Cold,256
+LEAD_0345,LinkedIn,North,Retail,Enterprise,Vikram,10.0,27.0,71,No,Positive,1,137555.22,2024-07-02,60.5,Warm,673
+LEAD_0346,Email Campaign,West,Technology,Enterprise,Priya,4.0,18.0,151,Yes,Positive,1,95343.4,2025-04-03,35.0,Cold,398
+LEAD_0347,LinkedIn,East,Education,Large,Sneha,8.0,12.0,168,No,No Response,0,0.0,2024-10-14,34.0,Cold,569
+LEAD_0348,LinkedIn,South,Healthcare,Enterprise,Priya,19.0,19.0,175,No,Positive,0,0.0,2025-04-04,66.5,Cold,397
+LEAD_0349,Website,South,Technology,Enterprise,Rahul,11.0,0.0,87,No,Negative,0,0.0,2024-06-01,22.0,Warm,704
+LEAD_0350,Referral,North,Finance,Medium,Rahul,14.0,24.0,83,No,No Response,0,0.0,2025-03-06,64.0,Warm,426
+LEAD_0351,LinkedIn,South,Retail,Medium,Sneha,15.0,0.0,133,No,Positive,0,0.0,2024-08-04,30.0,Cold,640
+LEAD_0352,Cold Call,North,Healthcare,Enterprise,Priya,16.0,28.0,146,Yes,Positive,0,0.0,2026-03-22,74.0,Cold,45
+LEAD_0353,Cold Call,North,Finance,Small,Sneha,1.0,29.0,93,Yes,Negative,0,0.0,2025-08-11,45.5,Cold,268
+LEAD_0354,Referral,Central,Retail,Small,Neha,0.0,7.0,96,No,No Response,0,0.0,2024-12-21,10.5,Cold,501
+LEAD_0355,Referral,Central,Education,Large,Rahul,5.0,26.0,67,Yes,Negative,0,0.0,2025-01-22,49.0,Warm,469
+LEAD_0356,LinkedIn,South,Education,Medium,Priya,20.0,7.0,174,Yes,Negative,0,0.0,2024-09-17,50.5,Cold,596
+LEAD_0357,LinkedIn,West,Finance,Medium,Vikram,0.0,7.0,65,No,No Response,1,79425.78,2026-03-15,10.5,Warm,52
+LEAD_0358,Referral,West,Healthcare,Enterprise,Rahul,0.0,14.0,78,No,No Response,1,98197.35,2024-12-28,21.0,Warm,494
+LEAD_0359,Email Campaign,East,Education,Large,Rahul,3.0,15.0,17,No,Negative,0,0.0,2025-09-14,28.5,Hot,234
+LEAD_0360,Website,East,Healthcare,Medium,Priya,16.0,24.0,62,Yes,No Response,0,0.0,2024-11-17,68.0,Warm,535
+LEAD_0361,Website,South,Technology,Enterprise,Rahul,8.0,29.0,108,No,Negative,0,0.0,2026-03-07,59.5,Cold,60
+LEAD_0362,Email Campaign,South,Healthcare,Medium,Neha,17.0,20.0,122,No,No Response,1,89538.44,2024-07-21,64.0,Cold,654
+LEAD_0363,Cold Call,Central,Finance,Large,Amit,15.0,4.0,67,Yes,No Response,0,0.0,2024-08-06,36.0,Warm,638
+LEAD_0364,Cold Call,East,Finance,Large,Sneha,10.0,11.0,67,No,Negative,1,99893.02,2024-06-01,36.5,Warm,704
+LEAD_0365,Email Campaign,Central,Education,Small,Sneha,6.0,16.0,31,No,No Response,1,73227.8,2024-09-14,36.0,Warm,599
+LEAD_0366,LinkedIn,South,Finance,Medium,Rahul,13.0,18.0,118,Yes,Negative,0,0.0,2024-11-27,53.0,Cold,525
+LEAD_0367,LinkedIn,West,Healthcare,Medium,Rahul,20.0,1.0,2,No,Negative,1,31151.73,2025-10-19,41.5,Hot,199
+LEAD_0368,Cold Call,Central,Finance,Enterprise,Amit,4.0,19.0,112,No,Negative,0,0.0,2026-01-29,36.5,Cold,97
+LEAD_0369,Referral,West,Technology,Small,Vikram,6.0,23.0,96,Yes,Negative,0,0.0,2025-04-12,46.5,Cold,389
+LEAD_0370,LinkedIn,North,Finance,Medium,Neha,11.0,9.0,34,Yes,Negative,1,81999.9,2025-09-18,35.5,Warm,230
+LEAD_0371,Website,South,Technology,Small,Rahul,9.0,14.0,134,No,No Response,0,0.0,2025-12-30,39.0,Cold,127
+LEAD_0372,Website,West,Healthcare,Medium,Priya,12.0,0.0,59,Yes,No Response,1,149343.5,2025-03-10,24.0,Warm,422
+LEAD_0373,LinkedIn,Central,Education,Medium,Amit,11.0,22.0,167,Yes,Negative,1,35622.58,2024-11-07,55.0,Cold,545
+LEAD_0374,Email Campaign,Central,Technology,Small,Neha,3.0,20.0,6,Yes,No Response,1,42089.43,2025-05-22,36.0,Hot,349
+LEAD_0375,Referral,West,Technology,Large,Sneha,4.0,6.0,178,Yes,Negative,0,0.0,2025-01-20,17.0,Cold,471
+LEAD_0376,LinkedIn,Central,Healthcare,Medium,Sneha,3.0,16.0,159,Yes,Negative,0,0.0,2024-08-31,30.0,Cold,613
+LEAD_0377,LinkedIn,West,Finance,Medium,Rahul,16.0,6.0,92,No,Negative,0,0.0,2025-06-12,41.0,Cold,328
+LEAD_0378,Email Campaign,West,Finance,Enterprise,Rahul,7.0,0.0,4,Yes,Positive,0,0.0,2024-10-14,14.0,Hot,569
+LEAD_0379,Cold Call,North,Education,Small,Neha,3.0,28.0,66,Yes,Negative,1,102008.18,2024-10-07,48.0,Warm,576
+LEAD_0380,Referral,North,Technology,Medium,Amit,9.0,11.0,174,No,Negative,1,47923.22,2025-09-30,34.5,Cold,218
+LEAD_0381,LinkedIn,North,Finance,Medium,Rahul,11.0,28.0,113,No,No Response,1,18774.78,2025-05-26,64.0,Cold,345
+LEAD_0382,Website,South,Technology,Enterprise,Sneha,14.0,8.0,99,No,Negative,0,0.0,2025-11-29,40.0,Cold,158
+LEAD_0383,Cold Call,North,Finance,Small,Priya,3.0,13.0,152,No,No Response,0,0.0,2024-11-28,25.5,Cold,524
+LEAD_0384,Referral,East,Education,Small,Neha,4.0,15.0,125,Yes,Negative,1,31282.78,2026-03-11,30.5,Cold,56
+LEAD_0385,LinkedIn,East,Healthcare,Small,Neha,0.0,24.0,148,Yes,No Response,0,0.0,2024-11-18,36.0,Cold,534
+LEAD_0386,Email Campaign,North,Retail,Medium,Sneha,11.0,21.0,174,No,Positive,1,80269.45,2024-12-09,53.5,Cold,513
+LEAD_0387,Email Campaign,North,Technology,Medium,Vikram,15.0,27.0,127,Yes,Positive,1,85959.91,2024-11-09,70.5,Cold,543
+LEAD_0388,Website,East,Technology,Medium,Vikram,20.0,12.0,104,Yes,Positive,1,51491.9,2025-05-27,58.0,Cold,344
+LEAD_0389,Email Campaign,West,Technology,Enterprise,Sneha,10.0,3.0,128,Yes,Positive,0,0.0,2026-02-06,24.5,Cold,89
+LEAD_0390,LinkedIn,Central,Education,Small,Amit,19.0,0.0,159,No,No Response,0,0.0,2025-12-29,38.0,Cold,128
+LEAD_0391,Referral,East,Healthcare,Small,Priya,14.0,10.0,144,No,No Response,0,0.0,2026-01-28,43.0,Cold,98
+LEAD_0392,LinkedIn,North,Finance,Small,Rahul,11.0,26.0,163,No,No Response,1,108807.46,2025-12-07,61.0,Cold,150
+LEAD_0393,LinkedIn,North,Finance,Enterprise,Priya,13.0,3.0,66,Yes,Positive,0,0.0,2025-12-25,30.5,Warm,132
+LEAD_0394,Referral,South,Retail,Medium,Neha,10.0,3.0,107,Yes,No Response,0,0.0,2025-07-01,24.5,Cold,309
+LEAD_0395,Referral,West,Education,Medium,Sneha,0.0,16.0,13,No,No Response,1,90377.61,2026-02-25,24.0,Hot,70
+LEAD_0396,Email Campaign,South,Education,Medium,Neha,4.0,3.0,100,No,No Response,0,0.0,2024-10-31,12.5,Cold,552
+LEAD_0397,Email Campaign,South,Healthcare,Enterprise,Rahul,9.0,14.0,35,Yes,Negative,1,65706.39,2024-09-30,39.0,Warm,583
+LEAD_0398,Email Campaign,East,Education,Large,Neha,0.0,20.0,56,Yes,Positive,0,0.0,2025-05-09,30.0,Warm,362
+LEAD_0399,Website,East,Finance,Medium,Vikram,17.0,22.0,164,No,No Response,0,0.0,2025-04-30,67.0,Cold,371
+LEAD_0400,Website,Central,Retail,Enterprise,Neha,17.0,9.0,109,Yes,No Response,0,0.0,2024-10-06,47.5,Cold,577
+LEAD_0401,Referral,South,Technology,Small,Priya,8.0,24.0,42,No,No Response,0,0.0,2025-01-01,52.0,Warm,490
+LEAD_0402,LinkedIn,East,Finance,Small,Rahul,14.0,3.0,158,Yes,No Response,0,0.0,2025-10-21,32.5,Cold,197
+LEAD_0403,Referral,South,Education,Large,Neha,1.0,29.0,98,No,Negative,0,0.0,2024-11-02,45.5,Cold,550
+LEAD_0404,Website,Central,Technology,Small,Neha,8.0,6.0,159,No,Positive,1,146494.29,2024-10-08,25.0,Cold,575
+LEAD_0405,Website,Central,Education,Medium,Neha,6.0,9.0,115,Yes,No Response,1,107171.21,2025-11-25,25.5,Cold,162
+LEAD_0406,Cold Call,Central,Technology,Enterprise,Amit,13.0,8.0,143,No,Positive,0,0.0,2025-07-05,38.0,Cold,305
+LEAD_0407,Website,North,Healthcare,Enterprise,Neha,0.0,1.0,40,No,No Response,0,0.0,2025-11-06,1.5,Warm,181
+LEAD_0408,Email Campaign,East,Retail,Large,Amit,10.0,16.0,57,Yes,No Response,0,0.0,2024-05-23,44.0,Warm,713
+LEAD_0409,Email Campaign,South,Retail,Enterprise,Amit,0.0,7.0,55,No,Negative,0,0.0,2025-02-06,10.5,Warm,454
+LEAD_0410,Cold Call,Central,Education,Enterprise,Vikram,20.0,0.0,30,No,Negative,0,0.0,2025-12-01,40.0,Hot,156
+LEAD_0411,Email Campaign,Central,Finance,Small,Neha,10.0,12.0,30,No,Negative,0,0.0,2026-01-12,38.0,Hot,114
+LEAD_0412,Website,North,Education,Large,Vikram,16.0,0.0,125,Yes,Negative,0,0.0,2024-12-07,32.0,Cold,515
+LEAD_0413,Email Campaign,North,Technology,Medium,Vikram,17.0,0.0,161,Yes,Positive,1,32914.3,2025-07-25,34.0,Cold,285
+LEAD_0414,Referral,North,Finance,Enterprise,Neha,2.0,23.0,176,Yes,Positive,1,117169.43,2025-09-13,38.5,Cold,235
+LEAD_0415,Website,North,Technology,Small,Amit,5.0,25.0,65,Yes,No Response,0,0.0,2025-09-20,47.5,Warm,228
+LEAD_0416,Referral,West,Retail,Enterprise,Sneha,10.0,0.0,100,Yes,No Response,1,137093.05,2024-08-02,20.0,Cold,642
+LEAD_0417,Email Campaign,North,Education,Small,Neha,2.0,11.0,129,Yes,Negative,0,0.0,2024-06-09,20.5,Cold,696
+LEAD_0418,LinkedIn,East,Retail,Enterprise,Sneha,0.0,15.0,41,Yes,Positive,1,48695.85,2025-02-14,22.5,Warm,446
+LEAD_0419,Email Campaign,East,Finance,Large,Neha,20.0,11.0,3,Yes,Positive,1,120531.71,2025-01-13,56.5,Hot,478
+LEAD_0420,Email Campaign,Central,Retail,Small,Rahul,6.0,23.0,89,Yes,Negative,0,0.0,2026-01-26,46.5,Warm,100
+LEAD_0421,Cold Call,South,Finance,Medium,Vikram,8.0,6.0,30,Yes,No Response,1,128461.53,2026-04-13,25.0,Hot,23
+LEAD_0422,Email Campaign,West,Education,Small,Rahul,2.0,8.0,26,Yes,No Response,1,128576.41,2026-01-28,16.0,Hot,98
+LEAD_0423,Website,East,Finance,Medium,Amit,9.0,19.0,18,Yes,Negative,0,0.0,2024-09-05,46.5,Hot,608
+LEAD_0424,Website,Central,Healthcare,Medium,Vikram,18.0,11.0,81,No,Positive,0,0.0,2025-07-27,52.5,Warm,283
+LEAD_0425,Cold Call,South,Retail,Large,Rahul,4.0,21.0,85,No,Negative,0,0.0,2024-10-31,39.5,Warm,552
+LEAD_0426,Website,West,Education,Small,Priya,20.0,19.0,21,No,Positive,0,0.0,2025-05-27,68.5,Hot,344
+LEAD_0427,LinkedIn,North,Technology,Small,Vikram,18.0,12.0,152,Yes,Positive,1,33482.63,2025-11-27,54.0,Cold,160
+LEAD_0428,Email Campaign,Central,Retail,Medium,Rahul,12.0,7.0,151,No,Positive,0,0.0,2025-06-20,34.5,Cold,320
+LEAD_0429,Email Campaign,North,Retail,Large,Vikram,0.0,21.0,62,Yes,No Response,0,0.0,2024-05-20,31.5,Warm,716
+LEAD_0430,Cold Call,South,Education,Medium,Neha,15.0,30.0,92,Yes,Positive,0,0.0,2024-07-15,75.0,Cold,660
+LEAD_0431,Website,East,Finance,Small,Neha,6.0,16.0,93,No,Negative,1,38603.74,2024-08-22,36.0,Cold,622
+LEAD_0432,LinkedIn,East,Technology,Large,Neha,8.0,18.0,140,Yes,Negative,1,132825.04,2026-01-16,43.0,Cold,110
+LEAD_0433,LinkedIn,Central,Healthcare,Enterprise,Priya,16.0,12.0,91,No,Negative,1,57968.03,2025-07-18,50.0,Cold,292
+LEAD_0434,LinkedIn,Central,Finance,Enterprise,Priya,7.0,2.0,132,No,No Response,1,133639.93,2025-10-01,17.0,Cold,217
+LEAD_0435,Cold Call,East,Education,Small,Neha,7.0,13.0,85,Yes,Negative,0,0.0,2024-08-16,33.5,Warm,628
+LEAD_0436,Email Campaign,South,Retail,Small,Priya,1.0,4.0,147,Yes,Positive,1,74458.07,2025-08-18,8.0,Cold,261
+LEAD_0437,LinkedIn,Central,Finance,Small,Priya,8.0,29.0,47,No,No Response,0,0.0,2025-03-19,59.5,Warm,413
+LEAD_0438,Website,North,Finance,Enterprise,Vikram,15.0,27.0,124,Yes,Positive,1,97455.29,2024-11-23,70.5,Cold,529
+LEAD_0439,Email Campaign,South,Education,Large,Priya,10.0,29.0,117,Yes,Positive,1,92121.61,2024-06-13,63.5,Cold,692
+LEAD_0440,Cold Call,North,Technology,Medium,Vikram,16.0,21.0,108,Yes,No Response,0,0.0,2026-01-28,63.5,Cold,98
+LEAD_0441,Referral,Central,Education,Small,Vikram,16.0,24.0,31,Yes,No Response,0,0.0,2024-12-15,68.0,Warm,507
+LEAD_0442,Email Campaign,North,Retail,Enterprise,Rahul,1.0,22.0,136,No,Positive,1,135787.79,2024-11-05,35.0,Cold,547
+LEAD_0443,Referral,East,Education,Small,Sneha,4.0,8.0,123,Yes,Positive,1,74907.9,2026-01-09,20.0,Cold,117
+LEAD_0444,Email Campaign,West,Healthcare,Medium,Amit,0.0,0.0,134,Yes,No Response,0,0.0,2025-08-04,0.0,Cold,275
+LEAD_0445,Cold Call,East,Retail,Large,Amit,4.0,13.0,167,No,Negative,0,0.0,2024-12-20,27.5,Cold,502
+LEAD_0446,Website,Central,Healthcare,Enterprise,Priya,13.0,17.0,143,No,Positive,1,66416.42,2025-03-03,51.5,Cold,429
+LEAD_0447,Email Campaign,West,Healthcare,Large,Vikram,11.0,24.0,102,Yes,No Response,0,0.0,2025-03-19,58.0,Cold,413
+LEAD_0448,Cold Call,West,Finance,Small,Priya,16.0,12.0,87,Yes,Positive,0,0.0,2025-02-26,50.0,Warm,434
+LEAD_0449,LinkedIn,North,Finance,Enterprise,Vikram,13.0,2.0,17,No,Positive,0,0.0,2025-11-18,29.0,Hot,169
+LEAD_0450,Email Campaign,North,Retail,Enterprise,Vikram,20.0,16.0,74,Yes,Positive,0,0.0,2024-09-28,64.0,Warm,585
+LEAD_0451,Referral,North,Finance,Large,Priya,1.0,25.0,154,Yes,No Response,0,0.0,2024-10-26,39.5,Cold,557
+LEAD_0452,LinkedIn,East,Finance,Small,Priya,2.0,8.0,103,No,No Response,0,0.0,2025-01-31,16.0,Cold,460
+LEAD_0453,Email Campaign,South,Education,Small,Neha,2.0,29.0,24,No,No Response,0,0.0,2026-04-22,47.5,Hot,14
+LEAD_0454,Website,East,Healthcare,Medium,Vikram,6.0,14.0,104,Yes,Negative,1,137676.3,2025-12-10,33.0,Cold,147
+LEAD_0455,Email Campaign,North,Education,Small,Vikram,9.0,10.0,30,No,No Response,0,0.0,2024-09-07,33.0,Hot,606
+LEAD_0456,Referral,West,Education,Enterprise,Priya,10.0,30.0,118,No,No Response,1,88359.61,2025-04-21,65.0,Cold,380
+LEAD_0457,Website,North,Retail,Medium,Neha,7.0,25.0,81,No,Negative,1,74885.67,2025-10-25,51.5,Warm,193
+LEAD_0458,LinkedIn,East,Finance,Large,Amit,12.0,21.0,88,Yes,No Response,0,0.0,2025-07-07,55.5,Warm,303
+LEAD_0459,Website,South,Education,Large,Priya,6.0,15.0,52,Yes,No Response,1,74100.54,2025-03-18,34.5,Warm,414
+LEAD_0460,Website,South,Finance,Medium,Priya,19.0,11.0,40,Yes,Positive,0,0.0,2024-11-18,54.5,Warm,534
+LEAD_0461,Referral,Central,Technology,Small,Sneha,11.0,19.0,81,No,No Response,1,102992.76,2024-11-25,50.5,Warm,527
+LEAD_0462,Email Campaign,East,Retail,Medium,Vikram,4.0,1.0,135,No,Negative,1,76166.78,2025-10-04,9.5,Cold,214
+LEAD_0463,Website,West,Finance,Enterprise,Amit,16.0,14.0,81,Yes,No Response,1,9721.58,2024-12-22,53.0,Warm,500
+LEAD_0464,LinkedIn,East,Healthcare,Large,Priya,17.0,8.0,61,No,Negative,1,60017.06,2024-08-23,46.0,Warm,621
+LEAD_0465,Cold Call,West,Retail,Medium,Sneha,11.0,11.0,103,No,Negative,1,54748.99,2025-03-12,38.5,Cold,420
+LEAD_0466,Cold Call,Central,Finance,Small,Neha,8.0,0.0,61,No,Negative,0,0.0,2025-09-08,16.0,Warm,240
+LEAD_0467,Cold Call,West,Technology,Medium,Sneha,15.0,4.0,162,No,Negative,0,0.0,2026-04-11,36.0,Cold,25
+LEAD_0468,Email Campaign,Central,Technology,Enterprise,Amit,5.0,1.0,56,No,Negative,0,0.0,2024-05-28,11.5,Warm,708
+LEAD_0469,Website,East,Healthcare,Large,Vikram,17.0,29.0,66,No,Positive,1,18963.77,2026-01-04,77.5,Warm,122
+LEAD_0470,Website,Central,Finance,Medium,Rahul,11.0,10.0,173,No,No Response,0,0.0,2025-12-06,37.0,Cold,151
+LEAD_0471,LinkedIn,West,Education,Large,Sneha,20.0,30.0,38,Yes,No Response,0,0.0,2025-07-14,85.0,Warm,296
+LEAD_0472,Email Campaign,Central,Retail,Small,Amit,5.0,10.0,59,No,Negative,1,53921.3,2025-04-21,25.0,Warm,380
+LEAD_0473,Email Campaign,West,Healthcare,Enterprise,Rahul,18.0,16.0,116,No,Positive,1,108012.86,2024-09-14,60.0,Cold,599
+LEAD_0474,LinkedIn,South,Finance,Large,Neha,0.0,6.0,43,No,Positive,0,0.0,2024-06-04,9.0,Warm,701
+LEAD_0475,Referral,Central,Technology,Small,Sneha,16.0,24.0,22,Yes,Negative,0,0.0,2026-04-08,68.0,Hot,28
+LEAD_0476,LinkedIn,West,Healthcare,Medium,Priya,9.0,14.0,161,Yes,Positive,0,0.0,2025-05-29,39.0,Cold,342
+LEAD_0477,Cold Call,North,Technology,Large,Rahul,0.0,14.0,139,No,No Response,0,0.0,2025-02-26,21.0,Cold,434
+LEAD_0478,Email Campaign,South,Education,Enterprise,Neha,0.0,28.0,145,No,No Response,0,0.0,2025-02-11,42.0,Cold,449
+LEAD_0479,Email Campaign,East,Healthcare,Enterprise,Vikram,7.0,25.0,23,No,Negative,0,0.0,2024-10-26,51.5,Hot,557
+LEAD_0480,Website,South,Healthcare,Small,Amit,0.0,26.0,35,No,Negative,0,0.0,2024-10-31,39.0,Warm,552
+LEAD_0481,LinkedIn,West,Retail,Large,Amit,13.0,25.0,75,Yes,Positive,0,0.0,2024-10-01,63.5,Warm,582
+LEAD_0482,Cold Call,West,Education,Enterprise,Sneha,7.0,0.0,166,No,Negative,0,0.0,2025-06-25,14.0,Cold,315
+LEAD_0483,LinkedIn,West,Finance,Large,Rahul,20.0,23.0,137,No,Negative,0,0.0,2025-04-10,74.5,Cold,391
+LEAD_0484,LinkedIn,South,Finance,Large,Amit,20.0,14.0,159,No,Negative,0,0.0,2026-03-19,61.0,Cold,48
+LEAD_0485,Website,North,Finance,Small,Vikram,0.0,5.0,27,No,No Response,1,76339.42,2024-08-30,7.5,Hot,614
+LEAD_0486,Referral,North,Finance,Small,Priya,0.0,15.0,56,No,Negative,0,0.0,2024-08-06,22.5,Warm,638
+LEAD_0487,Referral,East,Retail,Small,Rahul,2.0,26.0,38,Yes,Negative,0,0.0,2024-08-30,43.0,Warm,614
+LEAD_0488,Referral,South,Finance,Large,Sneha,0.0,0.0,64,No,Negative,1,15350.78,2024-05-18,0.0,Warm,718
+LEAD_0489,LinkedIn,South,Retail,Small,Vikram,6.0,15.0,100,No,Negative,0,0.0,2025-12-23,34.5,Cold,134
+LEAD_0490,LinkedIn,Central,Education,Small,Rahul,15.0,20.0,77,Yes,Negative,0,0.0,2026-03-13,60.0,Warm,54
+LEAD_0491,Cold Call,North,Finance,Enterprise,Rahul,0.0,5.0,71,Yes,Negative,1,130230.36,2024-05-18,7.5,Warm,718
+LEAD_0492,LinkedIn,Central,Retail,Medium,Rahul,2.0,7.0,41,No,Positive,1,6294.83,2025-08-16,14.5,Warm,263
+LEAD_0493,LinkedIn,North,Healthcare,Medium,Neha,17.0,25.0,28,Yes,Negative,1,54071.2,2024-10-21,71.5,Hot,562
+LEAD_0494,Email Campaign,East,Retail,Medium,Amit,12.0,11.0,35,No,Positive,0,0.0,2025-03-25,40.5,Warm,407
+LEAD_0495,Referral,Central,Healthcare,Enterprise,Priya,18.0,5.0,140,No,Negative,0,0.0,2025-04-29,43.5,Cold,372
+LEAD_0496,Email Campaign,Central,Finance,Small,Vikram,4.0,14.0,76,No,No Response,1,44922.05,2025-09-19,29.0,Warm,229
+LEAD_0497,LinkedIn,Central,Retail,Medium,Amit,19.0,27.0,94,Yes,Negative,0,0.0,2024-08-07,78.5,Cold,637
+LEAD_0498,Email Campaign,West,Finance,Enterprise,Vikram,4.0,0.0,73,No,Negative,1,100451.97,2026-03-04,8.0,Warm,63
+LEAD_0499,LinkedIn,North,Education,Small,Amit,4.0,5.0,9,Yes,Positive,0,0.0,2025-11-28,15.5,Hot,159
+LEAD_0500,LinkedIn,North,Education,Enterprise,Neha,15.0,16.0,160,No,Positive,0,0.0,2026-01-10,54.0,Cold,116
+LEAD_0501,Email Campaign,North,Technology,Medium,Neha,15.0,29.0,21,No,No Response,0,0.0,2025-01-10,73.5,Hot,481
+LEAD_0502,Email Campaign,West,Healthcare,Small,Vikram,8.0,16.0,11,Yes,Negative,0,0.0,2025-11-17,40.0,Hot,170
+LEAD_0503,Cold Call,Central,Technology,Small,Neha,7.0,17.0,99,Yes,Positive,0,0.0,2025-08-03,39.5,Cold,276
+LEAD_0504,Cold Call,Central,Finance,Enterprise,Neha,3.0,24.0,164,No,No Response,0,0.0,2025-11-07,42.0,Cold,180
+LEAD_0505,Referral,North,Finance,Medium,Vikram,12.0,16.0,87,Yes,No Response,0,0.0,2026-01-02,48.0,Warm,124
+LEAD_0506,Website,East,Education,Large,Rahul,13.0,24.0,163,No,No Response,1,69236.76,2025-09-13,62.0,Cold,235
+LEAD_0507,Cold Call,Central,Education,Medium,Sneha,17.0,29.0,66,No,Negative,0,0.0,2026-03-29,77.5,Warm,38
+LEAD_0508,Referral,North,Technology,Large,Vikram,0.0,16.0,35,No,Positive,0,0.0,2026-04-20,24.0,Warm,16
+LEAD_0509,Cold Call,South,Healthcare,Small,Neha,8.0,29.0,142,Yes,Positive,0,0.0,2025-03-13,59.5,Cold,419
+LEAD_0510,Website,South,Finance,Large,Rahul,18.0,7.0,60,No,Negative,0,0.0,2024-09-16,46.5,Warm,597
+LEAD_0511,Referral,Central,Finance,Small,Neha,10.0,25.0,124,Yes,Negative,0,0.0,2025-06-28,57.5,Cold,312
+LEAD_0512,Email Campaign,North,Education,Large,Amit,18.0,12.0,21,Yes,Negative,1,104991.29,2025-09-08,54.0,Hot,240
+LEAD_0513,Referral,West,Technology,Medium,Neha,20.0,27.0,155,Yes,No Response,0,0.0,2024-11-11,80.5,Cold,541
+LEAD_0514,Website,Central,Technology,Large,Vikram,18.0,4.0,84,Yes,Positive,1,60460.61,2025-01-18,42.0,Warm,473
+LEAD_0515,Referral,West,Education,Small,Priya,13.0,9.0,101,Yes,Positive,0,0.0,2024-05-05,39.5,Cold,731
+LEAD_0516,Referral,Central,Technology,Enterprise,Rahul,2.0,12.0,129,No,No Response,0,0.0,2024-08-18,22.0,Cold,626
+LEAD_0517,Cold Call,West,Education,Medium,Sneha,12.0,20.0,147,Yes,No Response,0,0.0,2025-02-22,54.0,Cold,438
+LEAD_0518,Email Campaign,South,Finance,Small,Rahul,13.0,10.0,176,Yes,Positive,0,0.0,2024-07-26,41.0,Cold,649
+LEAD_0519,Website,South,Healthcare,Large,Vikram,20.0,0.0,79,Yes,Negative,1,66413.39,2025-03-14,40.0,Warm,418
+LEAD_0520,Referral,Central,Finance,Enterprise,Amit,7.0,6.0,176,No,Positive,0,0.0,2024-10-15,23.0,Cold,568
+LEAD_0521,LinkedIn,North,Finance,Medium,Rahul,0.0,10.0,178,Yes,Negative,1,128650.8,2024-08-29,15.0,Cold,615
+LEAD_0522,LinkedIn,East,Finance,Medium,Priya,17.0,16.0,67,No,No Response,0,0.0,2026-01-12,58.0,Warm,114
+LEAD_0523,LinkedIn,West,Education,Small,Rahul,5.0,1.0,73,Yes,No Response,1,25495.38,2024-07-03,11.5,Warm,672
+LEAD_0524,LinkedIn,West,Technology,Small,Sneha,8.0,21.0,169,No,Positive,0,0.0,2025-09-06,47.5,Cold,242
+LEAD_0525,Referral,South,Retail,Small,Rahul,15.0,27.0,153,Yes,Positive,0,0.0,2026-04-06,70.5,Cold,30
+LEAD_0526,Referral,Central,Technology,Small,Priya,16.0,9.0,86,No,Negative,0,0.0,2024-09-10,45.5,Warm,603
+LEAD_0527,Website,East,Healthcare,Medium,Vikram,8.0,25.0,16,No,Negative,1,7663.97,2025-05-18,53.5,Hot,353
+LEAD_0528,LinkedIn,Central,Healthcare,Medium,Priya,10.0,28.0,101,Yes,Positive,1,123154.5,2025-06-25,62.0,Cold,315
+LEAD_0529,Email Campaign,South,Retail,Medium,Vikram,4.0,13.0,80,No,Negative,1,80504.09,2024-07-10,27.5,Warm,665
+LEAD_0530,Cold Call,South,Education,Medium,Priya,9.0,22.0,135,Yes,Negative,0,0.0,2024-06-27,51.0,Cold,678
+LEAD_0531,Cold Call,Central,Finance,Large,Amit,17.0,17.0,31,Yes,Negative,1,146487.65,2024-06-19,59.5,Warm,686
+LEAD_0532,LinkedIn,East,Retail,Enterprise,Rahul,14.0,23.0,164,No,Positive,1,26100.81,2025-07-01,62.5,Cold,309
+LEAD_0533,Cold Call,North,Education,Large,Vikram,18.0,19.0,60,Yes,Positive,1,20481.86,2025-04-09,64.5,Warm,392
+LEAD_0534,Referral,South,Education,Enterprise,Neha,20.0,11.0,48,No,Negative,1,57092.89,2026-04-10,56.5,Warm,26
+LEAD_0535,Cold Call,South,Finance,Small,Sneha,0.0,29.0,70,No,Positive,0,0.0,2026-04-18,43.5,Warm,18
+LEAD_0536,Cold Call,North,Finance,Enterprise,Vikram,15.0,22.0,84,No,Positive,1,148295.3,2025-07-28,63.0,Warm,282
+LEAD_0537,LinkedIn,Central,Retail,Large,Sneha,19.0,30.0,147,Yes,No Response,0,0.0,2026-03-12,83.0,Cold,55
+LEAD_0538,Referral,North,Finance,Enterprise,Neha,1.0,17.0,100,Yes,Positive,0,0.0,2025-08-12,27.5,Cold,267
+LEAD_0539,Referral,East,Healthcare,Enterprise,Priya,13.0,9.0,157,Yes,No Response,0,0.0,2026-03-05,39.5,Cold,62
+LEAD_0540,Cold Call,West,Retail,Small,Neha,16.0,3.0,47,Yes,Negative,0,0.0,2025-03-28,36.5,Warm,404
+LEAD_0541,Referral,North,Finance,Enterprise,Vikram,6.0,28.0,117,Yes,Negative,0,0.0,2025-02-04,54.0,Cold,456
+LEAD_0542,Cold Call,North,Technology,Small,Neha,14.0,20.0,93,Yes,No Response,0,0.0,2024-09-30,58.0,Cold,583
+LEAD_0543,Email Campaign,Central,Finance,Enterprise,Vikram,12.0,1.0,44,No,No Response,1,110396.71,2024-12-01,25.5,Warm,521
+LEAD_0544,Cold Call,South,Finance,Small,Sneha,9.0,9.0,115,No,No Response,1,130087.51,2025-05-18,31.5,Cold,353
+LEAD_0545,Cold Call,South,Technology,Large,Amit,14.0,15.0,128,Yes,No Response,0,0.0,2025-01-13,50.5,Cold,478
+LEAD_0546,Email Campaign,West,Retail,Enterprise,Sneha,2.0,19.0,154,Yes,Positive,1,39492.36,2025-02-17,32.5,Cold,443
+LEAD_0547,Email Campaign,South,Technology,Medium,Priya,1.0,20.0,90,Yes,Positive,1,45326.38,2025-09-26,32.0,Warm,222
+LEAD_0548,Email Campaign,East,Healthcare,Small,Amit,0.0,13.0,46,Yes,No Response,1,101714.5,2026-04-13,19.5,Warm,23
+LEAD_0549,Email Campaign,Central,Education,Medium,Sneha,18.0,11.0,10,Yes,Negative,0,0.0,2024-07-25,52.5,Hot,650
+LEAD_0550,Referral,North,Retail,Small,Rahul,15.0,4.0,32,No,Negative,0,0.0,2026-02-06,36.0,Warm,89
+LEAD_0551,Email Campaign,South,Finance,Small,Amit,18.0,23.0,162,Yes,Negative,0,0.0,2025-03-28,70.5,Cold,404
+LEAD_0552,Website,West,Education,Large,Rahul,16.0,18.0,160,No,Positive,1,92692.81,2025-04-27,59.0,Cold,374
+LEAD_0553,Referral,Central,Retail,Enterprise,Priya,19.0,7.0,75,Yes,Positive,0,0.0,2024-12-16,48.5,Warm,506
+LEAD_0554,Referral,North,Finance,Enterprise,Sneha,1.0,10.0,90,Yes,Positive,0,0.0,2024-05-06,17.0,Warm,730
+LEAD_0555,Website,East,Technology,Large,Rahul,16.0,17.0,83,Yes,Positive,0,0.0,2024-10-17,57.5,Warm,566
+LEAD_0556,Email Campaign,Central,Technology,Medium,Priya,10.0,26.0,87,No,Negative,1,54497.43,2025-07-30,59.0,Warm,280
+LEAD_0557,Referral,South,Retail,Large,Sneha,13.0,29.0,15,No,No Response,1,98619.57,2024-09-04,69.5,Hot,609
+LEAD_0558,Email Campaign,North,Finance,Large,Rahul,2.0,4.0,72,Yes,Negative,1,50747.91,2025-08-23,10.0,Warm,256
+LEAD_0559,Cold Call,Central,Education,Enterprise,Priya,19.0,0.0,79,No,No Response,1,95844.07,2026-04-05,38.0,Warm,31
+LEAD_0560,Referral,North,Retail,Medium,Rahul,14.0,26.0,78,Yes,No Response,0,0.0,2024-11-26,67.0,Warm,526
+LEAD_0561,LinkedIn,East,Technology,Medium,Amit,14.0,16.0,7,No,No Response,0,0.0,2025-11-12,52.0,Hot,175
+LEAD_0562,Website,West,Education,Large,Rahul,4.0,24.0,26,Yes,Positive,0,0.0,2024-09-22,44.0,Hot,591
+LEAD_0563,Email Campaign,North,Technology,Large,Amit,19.0,27.0,23,No,Negative,1,71608.42,2024-08-14,78.5,Hot,630
+LEAD_0564,Website,North,Education,Large,Neha,6.0,10.0,52,Yes,Negative,1,19949.91,2025-10-27,27.0,Warm,191
+LEAD_0565,Website,West,Technology,Large,Priya,5.0,8.0,30,Yes,No Response,0,0.0,2026-03-23,22.0,Hot,44
+LEAD_0566,LinkedIn,South,Education,Large,Vikram,10.0,8.0,37,No,No Response,0,0.0,2026-02-28,32.0,Warm,67
+LEAD_0567,LinkedIn,East,Education,Large,Vikram,14.0,1.0,34,Yes,Negative,0,0.0,2026-04-27,29.5,Warm,9
+LEAD_0568,Referral,North,Technology,Enterprise,Sneha,5.0,22.0,153,No,No Response,1,12316.12,2024-06-07,43.0,Cold,698
+LEAD_0569,Website,South,Education,Small,Sneha,18.0,4.0,24,No,Positive,0,0.0,2025-07-30,42.0,Hot,280
+LEAD_0570,Referral,West,Finance,Medium,Priya,19.0,8.0,94,No,Positive,0,0.0,2024-08-13,50.0,Cold,631
+LEAD_0571,Website,West,Retail,Small,Amit,15.0,3.0,90,No,Negative,1,101451.19,2025-01-10,34.5,Warm,481
+LEAD_0572,Website,Central,Education,Medium,Vikram,3.0,12.0,28,No,No Response,1,45927.32,2024-08-28,24.0,Hot,616
+LEAD_0573,Website,Central,Retail,Enterprise,Vikram,13.0,7.0,159,Yes,No Response,0,0.0,2025-09-11,36.5,Cold,237
+LEAD_0574,Referral,West,Technology,Large,Priya,18.0,13.0,112,No,No Response,0,0.0,2025-04-04,55.5,Cold,397
+LEAD_0575,LinkedIn,Central,Retail,Small,Vikram,19.0,14.0,84,Yes,Negative,1,30097.39,2025-08-24,59.0,Warm,255
+LEAD_0576,Referral,North,Education,Small,Neha,19.0,24.0,98,No,Negative,0,0.0,2025-08-17,74.0,Cold,262
+LEAD_0577,LinkedIn,North,Finance,Medium,Vikram,20.0,25.0,1,Yes,No Response,0,0.0,2025-03-03,77.5,Hot,429
+LEAD_0578,Email Campaign,East,Retail,Enterprise,Priya,6.0,21.0,82,No,No Response,0,0.0,2024-12-08,43.5,Warm,514
+LEAD_0579,Referral,East,Technology,Small,Vikram,16.0,12.0,33,No,Positive,1,103536.04,2024-08-24,50.0,Warm,620
+LEAD_0580,Email Campaign,North,Technology,Large,Amit,9.0,27.0,8,Yes,Negative,0,0.0,2025-04-05,58.5,Hot,396
+LEAD_0581,Website,West,Retail,Enterprise,Sneha,17.0,6.0,170,Yes,Negative,1,62168.91,2024-07-30,43.0,Cold,645
+LEAD_0582,Email Campaign,West,Healthcare,Enterprise,Priya,9.0,0.0,172,Yes,Positive,0,0.0,2024-10-23,18.0,Cold,560
+LEAD_0583,LinkedIn,South,Retail,Enterprise,Priya,2.0,4.0,165,No,Negative,0,0.0,2025-04-10,10.0,Cold,391
+LEAD_0584,Referral,Central,Finance,Enterprise,Vikram,0.0,17.0,116,No,Negative,1,105831.63,2025-12-24,25.5,Cold,133
+LEAD_0585,Referral,Central,Technology,Enterprise,Neha,7.0,22.0,129,No,Negative,0,0.0,2025-04-13,47.0,Cold,388
+LEAD_0586,LinkedIn,North,Education,Enterprise,Neha,11.0,3.0,149,No,No Response,1,88571.09,2026-04-25,26.5,Cold,11
+LEAD_0587,Email Campaign,East,Retail,Small,Vikram,19.0,2.0,63,No,No Response,0,0.0,2026-03-29,41.0,Warm,38
+LEAD_0588,LinkedIn,Central,Education,Large,Vikram,1.0,28.0,88,Yes,Negative,1,144259.6,2025-08-13,44.0,Warm,266
+LEAD_0589,Referral,Central,Healthcare,Enterprise,Rahul,9.0,9.0,43,Yes,No Response,0,0.0,2025-01-03,31.5,Warm,488
+LEAD_0590,Email Campaign,East,Technology,Enterprise,Vikram,5.0,18.0,14,No,No Response,1,113666.67,2025-12-29,37.0,Hot,128
+LEAD_0591,Website,West,Technology,Medium,Vikram,2.0,27.0,72,No,Positive,0,0.0,2025-09-11,44.5,Warm,237
+LEAD_0592,Website,East,Technology,Small,Vikram,5.0,29.0,152,Yes,No Response,0,0.0,2026-03-11,53.5,Cold,56
+LEAD_0593,Cold Call,East,Finance,Enterprise,Priya,16.0,27.0,9,No,Positive,0,0.0,2024-05-28,72.5,Hot,708
+LEAD_0594,Cold Call,West,Retail,Enterprise,Priya,14.0,23.0,164,Yes,Positive,1,91353.89,2025-02-11,62.5,Cold,449
+LEAD_0595,Website,North,Healthcare,Small,Amit,5.0,14.0,103,No,Negative,0,0.0,2024-11-21,31.0,Cold,531
+LEAD_0596,Email Campaign,South,Retail,Enterprise,Sneha,8.0,4.0,136,No,Positive,0,0.0,2024-06-20,22.0,Cold,685
+LEAD_0597,Referral,West,Healthcare,Small,Amit,17.0,20.0,91,No,No Response,0,0.0,2025-06-26,64.0,Cold,314
+LEAD_0598,Website,East,Healthcare,Small,Rahul,20.0,18.0,101,No,No Response,1,129461.57,2024-05-28,67.0,Cold,708
+LEAD_0599,Email Campaign,South,Education,Large,Neha,5.0,10.0,141,Yes,No Response,1,111475.45,2024-05-23,25.0,Cold,713
+LEAD_0600,LinkedIn,North,Retail,Small,Vikram,3.0,21.0,115,No,Positive,0,0.0,2025-12-25,37.5,Cold,132
+LEAD_0601,LinkedIn,North,Education,Small,Amit,19.0,21.0,56,Yes,No Response,1,41524.94,2025-06-04,69.5,Warm,336
+LEAD_0602,Email Campaign,South,Retail,Medium,Amit,5.0,8.0,76,No,No Response,1,17526.02,2024-11-27,22.0,Warm,525
+LEAD_0603,Website,West,Healthcare,Large,Priya,2.0,8.0,16,No,Negative,1,97623.17,2026-04-05,16.0,Hot,31
+LEAD_0604,LinkedIn,East,Healthcare,Medium,Sneha,2.0,15.0,52,No,Positive,0,0.0,2025-04-15,26.5,Warm,386
+LEAD_0605,LinkedIn,South,Education,Enterprise,Priya,19.0,20.0,28,No,No Response,0,0.0,2025-03-21,68.0,Hot,411
+LEAD_0606,LinkedIn,North,Technology,Large,Sneha,0.0,28.0,128,Yes,No Response,0,0.0,2024-08-01,42.0,Cold,643
+LEAD_0607,LinkedIn,West,Healthcare,Medium,Neha,10.0,28.0,101,Yes,No Response,0,0.0,2025-01-11,62.0,Cold,480
+LEAD_0608,Referral,West,Retail,Small,Vikram,7.0,0.0,99,No,Positive,1,116793.64,2024-09-21,14.0,Cold,592
+LEAD_0609,Website,East,Healthcare,Enterprise,Amit,20.0,30.0,166,Yes,Negative,0,0.0,2024-07-06,85.0,Cold,669
+LEAD_0610,Website,North,Retail,Large,Neha,6.0,5.0,142,Yes,Negative,0,0.0,2025-10-18,19.5,Cold,200
+LEAD_0611,Referral,North,Healthcare,Enterprise,Amit,20.0,14.0,49,Yes,Positive,1,48336.2,2025-05-24,61.0,Warm,347
+LEAD_0612,Email Campaign,South,Retail,Enterprise,Amit,17.0,20.0,79,No,No Response,0,0.0,2025-08-10,64.0,Warm,269
+LEAD_0613,LinkedIn,North,Healthcare,Small,Rahul,1.0,12.0,31,Yes,No Response,1,122707.82,2024-09-21,20.0,Warm,592
+LEAD_0614,Email Campaign,South,Education,Medium,Amit,1.0,23.0,37,No,No Response,1,71463.7,2025-11-20,36.5,Warm,167
+LEAD_0615,Email Campaign,North,Finance,Medium,Amit,5.0,20.0,13,No,Positive,0,0.0,2026-02-15,40.0,Hot,80
+LEAD_0616,Cold Call,Central,Technology,Small,Amit,15.0,0.0,158,Yes,Positive,0,0.0,2025-02-19,30.0,Cold,441
+LEAD_0617,Referral,East,Technology,Medium,Rahul,6.0,24.0,12,Yes,Negative,1,66800.66,2025-09-21,48.0,Hot,227
+LEAD_0618,Website,South,Retail,Medium,Neha,11.0,17.0,43,No,Positive,0,0.0,2024-08-15,47.5,Warm,629
+LEAD_0619,LinkedIn,Central,Retail,Medium,Amit,15.0,0.0,2,Yes,Positive,1,10901.34,2025-05-04,30.0,Hot,367
+LEAD_0620,Email Campaign,East,Retail,Enterprise,Neha,4.0,6.0,37,No,No Response,1,107477.48,2024-09-26,17.0,Warm,587
+LEAD_0621,Cold Call,South,Education,Small,Vikram,5.0,22.0,128,Yes,No Response,0,0.0,2025-01-24,43.0,Cold,467
+LEAD_0622,Referral,North,Education,Medium,Priya,3.0,16.0,25,No,No Response,1,48673.97,2026-02-19,30.0,Hot,76
+LEAD_0623,Referral,South,Healthcare,Small,Priya,3.0,25.0,39,No,Negative,0,0.0,2024-06-07,43.5,Warm,698
+LEAD_0624,LinkedIn,North,Healthcare,Large,Priya,13.0,8.0,86,No,Positive,0,0.0,2025-01-12,38.0,Warm,479
+LEAD_0625,LinkedIn,Central,Finance,Medium,Amit,15.0,16.0,30,Yes,Positive,0,0.0,2024-06-11,54.0,Hot,694
+LEAD_0626,Website,West,Finance,Large,Priya,3.0,10.0,59,Yes,Positive,1,90942.47,2025-09-05,21.0,Warm,243
+LEAD_0627,Referral,South,Technology,Enterprise,Vikram,15.0,1.0,112,Yes,Positive,1,131133.51,2024-12-12,31.5,Cold,510
+LEAD_0628,Referral,East,Finance,Enterprise,Neha,6.0,20.0,92,No,Positive,1,70973.68,2024-08-30,42.0,Cold,614
+LEAD_0629,LinkedIn,Central,Technology,Large,Priya,3.0,27.0,120,No,Negative,0,0.0,2024-11-05,46.5,Cold,547
+LEAD_0630,Website,South,Healthcare,Medium,Neha,19.0,28.0,44,Yes,Positive,0,0.0,2025-08-30,80.0,Warm,249
+LEAD_0631,Email Campaign,West,Finance,Enterprise,Sneha,8.0,0.0,110,Yes,Positive,0,0.0,2026-02-02,16.0,Cold,93
+LEAD_0632,Email Campaign,South,Education,Medium,Vikram,0.0,13.0,12,Yes,Negative,0,0.0,2025-06-24,19.5,Hot,316
+LEAD_0633,Referral,Central,Retail,Enterprise,Neha,3.0,14.0,127,Yes,Positive,1,78111.37,2024-06-09,27.0,Cold,696
+LEAD_0634,LinkedIn,West,Finance,Medium,Rahul,9.0,7.0,166,Yes,Positive,0,0.0,2025-02-02,28.5,Cold,458
+LEAD_0635,Website,South,Retail,Small,Sneha,14.0,24.0,36,No,Positive,0,0.0,2024-06-25,64.0,Warm,680
+LEAD_0636,Referral,North,Technology,Enterprise,Neha,10.0,16.0,9,No,Negative,1,58710.97,2025-02-20,44.0,Hot,440
+LEAD_0637,Email Campaign,Central,Education,Medium,Neha,2.0,19.0,86,Yes,No Response,1,106217.97,2024-06-16,32.5,Warm,689
+LEAD_0638,LinkedIn,North,Retail,Large,Sneha,19.0,1.0,94,No,Positive,1,102824.68,2025-01-25,39.5,Cold,466
+LEAD_0639,LinkedIn,Central,Finance,Medium,Rahul,7.0,17.0,30,No,No Response,0,0.0,2025-05-24,39.5,Hot,347
+LEAD_0640,Cold Call,South,Healthcare,Large,Rahul,16.0,21.0,109,No,Positive,1,89117.31,2024-05-30,63.5,Cold,706
+LEAD_0641,Website,West,Retail,Small,Sneha,17.0,21.0,137,No,Negative,0,0.0,2024-11-24,65.5,Cold,528
+LEAD_0642,LinkedIn,South,Retail,Small,Amit,12.0,28.0,46,No,Positive,0,0.0,2025-11-03,66.0,Warm,184
+LEAD_0643,Website,North,Finance,Enterprise,Priya,6.0,16.0,161,Yes,Negative,0,0.0,2025-05-13,36.0,Cold,358
+LEAD_0644,Email Campaign,South,Retail,Large,Sneha,14.0,23.0,166,Yes,Negative,0,0.0,2025-02-13,62.5,Cold,447
+LEAD_0645,LinkedIn,South,Education,Large,Sneha,18.0,10.0,168,No,Negative,0,0.0,2025-07-27,51.0,Cold,283
+LEAD_0646,Email Campaign,Central,Retail,Enterprise,Rahul,18.0,4.0,79,Yes,Negative,0,0.0,2024-08-10,42.0,Warm,634
+LEAD_0647,Website,East,Technology,Medium,Rahul,9.0,14.0,43,Yes,No Response,0,0.0,2024-05-05,39.0,Warm,731
+LEAD_0648,Cold Call,South,Finance,Medium,Priya,3.0,1.0,82,Yes,Negative,0,0.0,2026-04-04,7.5,Warm,32
+LEAD_0649,Cold Call,South,Education,Small,Neha,10.0,11.0,38,No,Negative,0,0.0,2025-08-01,36.5,Warm,278
+LEAD_0650,Cold Call,Central,Healthcare,Small,Amit,12.0,29.0,128,Yes,Negative,0,0.0,2025-07-18,67.5,Cold,292
+LEAD_0651,Email Campaign,Central,Healthcare,Large,Sneha,9.0,30.0,147,Yes,No Response,1,27627.72,2025-10-02,63.0,Cold,216
+LEAD_0652,Website,North,Retail,Small,Priya,17.0,3.0,79,Yes,Negative,1,138732.35,2024-06-09,38.5,Warm,696
+LEAD_0653,Cold Call,West,Healthcare,Small,Rahul,1.0,19.0,165,Yes,No Response,0,0.0,2024-05-10,30.5,Cold,726
+LEAD_0654,Website,South,Technology,Small,Vikram,14.0,21.0,172,Yes,No Response,0,0.0,2025-05-27,59.5,Cold,344
+LEAD_0655,Referral,East,Education,Small,Neha,11.0,12.0,38,No,Negative,0,0.0,2025-10-08,40.0,Warm,210
+LEAD_0656,LinkedIn,East,Healthcare,Large,Rahul,14.0,0.0,144,Yes,Positive,0,0.0,2024-06-23,28.0,Cold,682
+LEAD_0657,Referral,West,Healthcare,Medium,Neha,13.0,23.0,107,Yes,No Response,1,69411.95,2024-06-28,60.5,Cold,677
+LEAD_0658,Cold Call,South,Healthcare,Enterprise,Vikram,0.0,2.0,152,No,Positive,0,0.0,2025-08-22,3.0,Cold,257
+LEAD_0659,Website,West,Finance,Enterprise,Neha,18.0,24.0,36,Yes,Positive,0,0.0,2024-11-01,72.0,Warm,551
+LEAD_0660,Referral,North,Healthcare,Large,Sneha,17.0,23.0,119,Yes,Positive,1,46972.16,2024-05-23,68.5,Cold,713
+LEAD_0661,Website,West,Technology,Large,Sneha,5.0,15.0,177,Yes,Positive,1,27333.48,2025-02-17,32.5,Cold,443
+LEAD_0662,Website,West,Technology,Large,Vikram,15.0,18.0,112,No,No Response,0,0.0,2025-11-27,57.0,Cold,160
+LEAD_0663,LinkedIn,East,Education,Small,Rahul,5.0,18.0,15,Yes,Negative,1,146267.52,2024-07-02,37.0,Hot,673
+LEAD_0664,Cold Call,East,Finance,Small,Rahul,11.0,13.0,163,No,Positive,0,0.0,2024-12-25,41.5,Cold,497
+LEAD_0665,Email Campaign,North,Education,Medium,Neha,5.0,24.0,25,Yes,No Response,0,0.0,2024-11-04,46.0,Hot,548
+LEAD_0666,Website,East,Healthcare,Large,Amit,17.0,18.0,91,Yes,Positive,0,0.0,2025-12-16,61.0,Cold,141
+LEAD_0667,Website,East,Retail,Enterprise,Rahul,5.0,3.0,56,Yes,No Response,0,0.0,2024-12-28,14.5,Warm,494
+LEAD_0668,Cold Call,Central,Education,Small,Sneha,14.0,29.0,20,Yes,Positive,0,0.0,2025-06-20,71.5,Hot,320
+LEAD_0669,Website,East,Finance,Enterprise,Vikram,16.0,24.0,88,Yes,No Response,1,74530.14,2025-06-04,68.0,Warm,336
+LEAD_0670,LinkedIn,South,Finance,Medium,Neha,7.0,9.0,33,Yes,Positive,0,0.0,2024-11-23,27.5,Warm,529
+LEAD_0671,LinkedIn,North,Technology,Enterprise,Sneha,1.0,6.0,28,Yes,No Response,1,66596.74,2025-03-17,11.0,Hot,415
+LEAD_0672,LinkedIn,West,Technology,Large,Amit,2.0,9.0,171,Yes,Positive,0,0.0,2024-06-26,17.5,Cold,679
+LEAD_0673,Cold Call,Central,Finance,Medium,Neha,11.0,0.0,24,Yes,No Response,1,138414.22,2025-11-23,22.0,Hot,164
+LEAD_0674,Website,East,Finance,Medium,Vikram,18.0,2.0,26,Yes,No Response,1,142574.78,2025-08-24,39.0,Hot,255
+LEAD_0675,Cold Call,East,Finance,Small,Neha,3.0,29.0,55,No,Negative,0,0.0,2024-05-15,49.5,Warm,721
+LEAD_0676,LinkedIn,South,Healthcare,Enterprise,Sneha,6.0,16.0,59,No,Positive,1,31843.24,2025-10-07,36.0,Warm,211
+LEAD_0677,Referral,North,Education,Medium,Sneha,11.0,22.0,74,Yes,Positive,1,50570.64,2025-07-16,55.0,Warm,294
+LEAD_0678,LinkedIn,West,Healthcare,Enterprise,Vikram,9.0,21.0,114,Yes,No Response,0,0.0,2025-03-16,49.5,Cold,416
+LEAD_0679,Referral,South,Technology,Enterprise,Neha,11.0,5.0,4,No,No Response,0,0.0,2025-04-13,29.5,Hot,388
+LEAD_0680,Referral,Central,Technology,Small,Priya,12.0,12.0,178,Yes,No Response,0,0.0,2024-11-06,42.0,Cold,546
+LEAD_0681,LinkedIn,East,Finance,Large,Priya,19.0,27.0,104,Yes,Positive,1,146788.73,2026-01-12,78.5,Cold,114
+LEAD_0682,Website,Central,Education,Large,Neha,12.0,11.0,122,No,Negative,1,110154.07,2025-08-27,40.5,Cold,252
+LEAD_0683,Cold Call,West,Technology,Small,Rahul,15.0,15.0,60,Yes,Positive,0,0.0,2025-11-17,52.5,Warm,170
+LEAD_0684,LinkedIn,North,Retail,Small,Priya,12.0,19.0,174,No,Positive,0,0.0,2026-04-10,52.5,Cold,26
+LEAD_0685,Email Campaign,North,Technology,Enterprise,Sneha,6.0,9.0,170,No,Negative,0,0.0,2025-06-11,25.5,Cold,329
+LEAD_0686,Email Campaign,East,Education,Small,Amit,0.0,28.0,31,No,Negative,0,0.0,2025-12-15,42.0,Warm,142
+LEAD_0687,Referral,West,Retail,Small,Amit,5.0,17.0,169,No,No Response,0,0.0,2024-11-19,35.5,Cold,533
+LEAD_0688,Referral,South,Healthcare,Enterprise,Sneha,3.0,18.0,173,No,No Response,0,0.0,2025-02-13,33.0,Cold,447
+LEAD_0689,Email Campaign,Central,Retail,Enterprise,Vikram,5.0,16.0,15,No,Negative,0,0.0,2025-01-29,34.0,Hot,462
+LEAD_0690,Referral,Central,Healthcare,Large,Rahul,1.0,0.0,152,Yes,Positive,0,0.0,2026-04-15,2.0,Cold,21
+LEAD_0691,Email Campaign,North,Healthcare,Enterprise,Amit,13.0,11.0,92,No,Negative,1,55587.13,2026-02-21,42.5,Cold,74
+LEAD_0692,Cold Call,South,Finance,Large,Vikram,2.0,29.0,177,Yes,Negative,0,0.0,2024-08-23,47.5,Cold,621
+LEAD_0693,Cold Call,North,Education,Large,Amit,14.0,21.0,109,No,Negative,0,0.0,2026-03-20,59.5,Cold,47
+LEAD_0694,Referral,Central,Technology,Large,Sneha,18.0,12.0,83,Yes,Negative,0,0.0,2026-04-17,54.0,Warm,19
+LEAD_0695,Cold Call,East,Retail,Large,Priya,19.0,9.0,94,No,Positive,0,0.0,2024-08-09,51.5,Cold,635
+LEAD_0696,LinkedIn,Central,Finance,Large,Rahul,1.0,9.0,147,No,Positive,0,0.0,2025-08-29,15.5,Cold,250
+LEAD_0697,LinkedIn,Central,Technology,Large,Rahul,2.0,18.0,136,No,Negative,0,0.0,2025-09-12,31.0,Cold,236
+LEAD_0698,LinkedIn,East,Education,Large,Sneha,17.0,10.0,52,No,Negative,0,0.0,2025-10-08,49.0,Warm,210
+LEAD_0699,Email Campaign,West,Education,Medium,Amit,20.0,22.0,133,Yes,No Response,0,0.0,2025-06-27,73.0,Cold,313
+LEAD_0700,Referral,East,Education,Enterprise,Vikram,20.0,1.0,134,Yes,Negative,0,0.0,2024-06-04,41.5,Cold,701
+LEAD_0701,Cold Call,South,Healthcare,Enterprise,Sneha,10.0,27.0,17,Yes,No Response,0,0.0,2025-06-25,60.5,Hot,315
+LEAD_0702,Website,South,Healthcare,Medium,Sneha,7.0,3.0,39,Yes,Positive,0,0.0,2025-09-09,18.5,Warm,239
+LEAD_0703,Website,West,Retail,Enterprise,Sneha,20.0,28.0,10,Yes,Positive,0,0.0,2025-10-18,82.0,Hot,200
+LEAD_0704,LinkedIn,East,Healthcare,Medium,Neha,1.0,30.0,125,Yes,Positive,0,0.0,2025-02-11,47.0,Cold,449
+LEAD_0705,Email Campaign,East,Technology,Enterprise,Rahul,2.0,12.0,36,Yes,Positive,1,17169.78,2025-03-30,22.0,Warm,402
+LEAD_0706,Email Campaign,North,Education,Large,Sneha,2.0,7.0,154,Yes,Negative,0,0.0,2025-04-25,14.5,Cold,376
+LEAD_0707,Email Campaign,West,Finance,Enterprise,Priya,4.0,3.0,45,Yes,Negative,0,0.0,2025-04-03,12.5,Warm,398
+LEAD_0708,Website,Central,Technology,Enterprise,Vikram,11.0,22.0,29,No,No Response,0,0.0,2025-06-22,55.0,Hot,318
+LEAD_0709,Cold Call,East,Finance,Large,Sneha,11.0,26.0,79,Yes,No Response,0,0.0,2024-07-31,61.0,Warm,644
+LEAD_0710,LinkedIn,South,Healthcare,Enterprise,Rahul,20.0,30.0,180,No,No Response,1,92843.14,2026-04-29,85.0,Cold,7
+LEAD_0711,Cold Call,West,Retail,Small,Sneha,8.0,9.0,24,Yes,Negative,0,0.0,2026-02-25,29.5,Hot,70
+LEAD_0712,Cold Call,West,Healthcare,Enterprise,Amit,8.0,27.0,21,No,Negative,0,0.0,2024-06-22,56.5,Hot,683
+LEAD_0713,Website,West,Technology,Medium,Neha,8.0,16.0,17,No,Negative,1,139342.1,2025-07-05,40.0,Hot,305
+LEAD_0714,Email Campaign,East,Retail,Small,Amit,20.0,20.0,48,No,No Response,0,0.0,2025-03-27,70.0,Warm,405
+LEAD_0715,Referral,South,Healthcare,Large,Vikram,2.0,3.0,41,Yes,No Response,0,0.0,2025-06-10,8.5,Warm,330
+LEAD_0716,Cold Call,Central,Retail,Large,Sneha,15.0,27.0,35,No,Positive,1,116303.07,2024-11-22,70.5,Warm,530
+LEAD_0717,Website,South,Technology,Enterprise,Rahul,5.0,12.0,97,Yes,Positive,1,124881.45,2024-05-14,28.0,Cold,722
+LEAD_0718,Email Campaign,South,Technology,Enterprise,Priya,8.0,22.0,44,Yes,Negative,1,138851.29,2024-10-16,49.0,Warm,567
+LEAD_0719,Email Campaign,East,Finance,Small,Rahul,5.0,30.0,146,Yes,Positive,0,0.0,2024-08-07,55.0,Cold,637
+LEAD_0720,Referral,West,Technology,Medium,Neha,6.0,0.0,69,No,No Response,1,68098.02,2025-10-18,12.0,Warm,200
+LEAD_0721,Cold Call,West,Finance,Medium,Rahul,6.0,13.0,47,No,Positive,0,0.0,2026-03-15,31.5,Warm,52
+LEAD_0722,Website,South,Education,Enterprise,Priya,11.0,18.0,176,No,Positive,0,0.0,2024-08-03,49.0,Cold,641
+LEAD_0723,Cold Call,East,Retail,Medium,Neha,12.0,22.0,109,No,Positive,0,0.0,2024-11-22,57.0,Cold,530
+LEAD_0724,LinkedIn,North,Healthcare,Medium,Sneha,11.0,19.0,172,Yes,Positive,0,0.0,2024-05-13,50.5,Cold,723
+LEAD_0725,Email Campaign,West,Healthcare,Enterprise,Neha,11.0,4.0,144,Yes,No Response,0,0.0,2024-05-30,28.0,Cold,706
+LEAD_0726,Cold Call,Central,Retail,Large,Sneha,4.0,2.0,82,No,Positive,0,0.0,2026-02-08,11.0,Warm,87
+LEAD_0727,Website,North,Finance,Enterprise,Rahul,11.0,29.0,111,No,Negative,0,0.0,2024-12-16,65.5,Cold,506
+LEAD_0728,Website,Central,Healthcare,Enterprise,Priya,10.0,23.0,126,Yes,No Response,0,0.0,2024-07-04,54.5,Cold,671
+LEAD_0729,Referral,North,Finance,Medium,Amit,7.0,5.0,10,No,Negative,1,100325.82,2026-01-11,21.5,Hot,115
+LEAD_0730,Referral,West,Technology,Enterprise,Amit,14.0,11.0,144,No,No Response,0,0.0,2025-07-11,44.5,Cold,299
+LEAD_0731,Cold Call,North,Healthcare,Small,Priya,9.0,5.0,44,No,No Response,0,0.0,2025-10-08,25.5,Warm,210
+LEAD_0732,Email Campaign,North,Education,Medium,Sneha,2.0,7.0,128,Yes,Negative,1,89923.22,2025-06-07,14.5,Cold,333
+LEAD_0733,LinkedIn,West,Healthcare,Small,Rahul,4.0,0.0,21,No,No Response,0,0.0,2024-06-26,8.0,Hot,679
+LEAD_0734,Website,Central,Technology,Large,Amit,20.0,19.0,116,No,No Response,1,70838.05,2025-10-05,68.5,Cold,213
+LEAD_0735,Email Campaign,South,Finance,Small,Neha,9.0,10.0,15,Yes,No Response,1,136497.36,2024-12-12,33.0,Hot,510
+LEAD_0736,Referral,East,Finance,Medium,Sneha,2.0,0.0,54,Yes,Negative,1,60301.68,2024-10-07,4.0,Warm,576
+LEAD_0737,Cold Call,North,Healthcare,Enterprise,Sneha,9.0,28.0,176,Yes,Negative,1,46315.7,2025-09-25,60.0,Cold,223
+LEAD_0738,Email Campaign,South,Retail,Enterprise,Sneha,15.0,8.0,145,No,Positive,1,125647.67,2025-04-04,42.0,Cold,397
+LEAD_0739,Email Campaign,South,Retail,Enterprise,Amit,1.0,16.0,88,No,No Response,1,122594.18,2025-06-28,26.0,Warm,312
+LEAD_0740,Cold Call,West,Education,Small,Rahul,14.0,13.0,21,No,Negative,0,0.0,2025-03-08,47.5,Hot,424
+LEAD_0741,Cold Call,East,Finance,Enterprise,Rahul,18.0,1.0,142,Yes,Positive,0,0.0,2026-03-06,37.5,Cold,61
+LEAD_0742,Email Campaign,West,Retail,Small,Sneha,18.0,26.0,65,No,Negative,0,0.0,2026-01-29,75.0,Warm,97
+LEAD_0743,Email Campaign,North,Technology,Enterprise,Priya,5.0,26.0,101,Yes,Positive,0,0.0,2024-07-29,49.0,Cold,646
+LEAD_0744,Website,East,Education,Enterprise,Neha,14.0,19.0,68,No,Positive,0,0.0,2024-06-10,56.5,Warm,695
+LEAD_0745,LinkedIn,Central,Healthcare,Small,Sneha,17.0,0.0,2,No,Positive,0,0.0,2025-06-23,34.0,Hot,317
+LEAD_0746,Referral,West,Retail,Enterprise,Rahul,19.0,26.0,158,No,No Response,0,0.0,2024-12-14,77.0,Cold,508
+LEAD_0747,Referral,East,Technology,Medium,Priya,0.0,6.0,29,Yes,No Response,1,105092.54,2024-11-28,9.0,Hot,524
+LEAD_0748,Cold Call,West,Finance,Medium,Sneha,20.0,27.0,138,Yes,Positive,1,129556.74,2025-12-11,80.5,Cold,146
+LEAD_0749,Referral,South,Retail,Enterprise,Amit,3.0,5.0,40,No,Negative,0,0.0,2024-05-28,13.5,Warm,708
+LEAD_0750,Referral,Central,Finance,Medium,Rahul,0.0,26.0,101,Yes,Negative,0,0.0,2025-11-03,39.0,Cold,184
+LEAD_0751,Referral,West,Retail,Large,Amit,15.0,12.0,125,No,Positive,0,0.0,2025-11-14,48.0,Cold,173
+LEAD_0752,Referral,Central,Healthcare,Small,Rahul,20.0,13.0,122,Yes,Negative,1,81604.78,2025-09-10,59.5,Cold,238
+LEAD_0753,Website,West,Retail,Small,Priya,9.0,23.0,50,No,Negative,0,0.0,2025-08-24,52.5,Warm,255
+LEAD_0754,Email Campaign,South,Education,Large,Vikram,14.0,4.0,76,No,Negative,0,0.0,2024-09-27,34.0,Warm,586
+LEAD_0755,Website,West,Finance,Medium,Rahul,2.0,21.0,124,Yes,Positive,1,102600.56,2025-03-13,35.5,Cold,419
+LEAD_0756,Email Campaign,West,Technology,Enterprise,Sneha,9.0,7.0,54,Yes,Positive,0,0.0,2024-10-24,28.5,Warm,559
+LEAD_0757,Website,East,Finance,Medium,Vikram,1.0,25.0,17,No,Negative,0,0.0,2024-12-09,39.5,Hot,513
+LEAD_0758,Cold Call,North,Education,Medium,Sneha,8.0,10.0,91,Yes,No Response,0,0.0,2024-07-04,31.0,Cold,671
+LEAD_0759,Cold Call,Central,Education,Small,Neha,1.0,29.0,113,No,Positive,0,0.0,2026-01-26,45.5,Cold,100
+LEAD_0760,Email Campaign,North,Education,Small,Vikram,3.0,0.0,162,Yes,Positive,1,118339.6,2024-08-04,6.0,Cold,640
+LEAD_0761,Website,West,Education,Enterprise,Neha,3.0,4.0,166,No,Negative,1,27769.72,2024-09-05,12.0,Cold,608
+LEAD_0762,Cold Call,West,Retail,Small,Priya,15.0,10.0,74,Yes,Positive,1,22832.6,2025-09-09,45.0,Warm,239
+LEAD_0763,Referral,East,Finance,Medium,Vikram,13.0,25.0,59,Yes,Negative,0,0.0,2024-12-29,63.5,Warm,493
+LEAD_0764,Referral,West,Education,Large,Amit,14.0,4.0,3,Yes,Positive,0,0.0,2025-04-12,34.0,Hot,389
+LEAD_0765,Referral,South,Retail,Small,Sneha,1.0,21.0,165,Yes,No Response,0,0.0,2025-03-31,33.5,Cold,401
+LEAD_0766,Email Campaign,East,Retail,Enterprise,Neha,17.0,27.0,78,No,Negative,0,0.0,2025-03-02,74.5,Warm,430
+LEAD_0767,Website,Central,Education,Medium,Neha,12.0,14.0,165,Yes,No Response,0,0.0,2025-09-03,45.0,Cold,245
+LEAD_0768,Email Campaign,West,Healthcare,Enterprise,Priya,9.0,2.0,10,No,Negative,0,0.0,2025-01-21,21.0,Hot,470
+LEAD_0769,Cold Call,Central,Education,Large,Priya,2.0,16.0,142,No,No Response,1,112307.57,2025-02-06,28.0,Cold,454
+LEAD_0770,Cold Call,North,Technology,Large,Priya,9.0,23.0,109,Yes,No Response,0,0.0,2025-07-29,52.5,Cold,281
+LEAD_0771,Website,East,Education,Large,Amit,1.0,24.0,167,Yes,Negative,0,0.0,2024-09-20,38.0,Cold,593
+LEAD_0772,LinkedIn,West,Healthcare,Medium,Neha,18.0,18.0,161,Yes,Negative,0,0.0,2025-05-18,63.0,Cold,353
+LEAD_0773,Email Campaign,South,Retail,Medium,Amit,10.0,16.0,150,Yes,Negative,0,0.0,2025-04-25,44.0,Cold,376
+LEAD_0774,Cold Call,West,Retail,Small,Amit,1.0,13.0,34,No,Positive,0,0.0,2026-03-05,21.5,Warm,62
+LEAD_0775,Website,Central,Retail,Enterprise,Rahul,18.0,15.0,163,No,Negative,0,0.0,2025-07-29,58.5,Cold,281
+LEAD_0776,Referral,South,Finance,Medium,Sneha,14.0,4.0,132,Yes,No Response,1,142433.9,2025-01-13,34.0,Cold,478
+LEAD_0777,Referral,North,Finance,Large,Amit,19.0,27.0,105,Yes,No Response,0,0.0,2024-11-14,78.5,Cold,538
+LEAD_0778,Website,North,Education,Medium,Amit,11.0,9.0,96,No,Negative,0,0.0,2024-08-15,35.5,Cold,629
+LEAD_0779,Cold Call,South,Education,Enterprise,Amit,9.0,28.0,73,Yes,Positive,0,0.0,2025-09-22,60.0,Warm,226
+LEAD_0780,LinkedIn,Central,Healthcare,Small,Amit,13.0,15.0,147,No,No Response,1,75875.08,2024-11-18,48.5,Cold,534
+LEAD_0781,Website,West,Retail,Medium,Priya,16.0,20.0,118,No,No Response,0,0.0,2024-12-23,62.0,Cold,499
+LEAD_0782,Website,North,Education,Enterprise,Sneha,7.0,28.0,102,No,No Response,0,0.0,2024-08-03,56.0,Cold,641
+LEAD_0783,Referral,East,Technology,Medium,Neha,0.0,18.0,162,No,No Response,0,0.0,2025-11-07,27.0,Cold,180
+LEAD_0784,Email Campaign,North,Finance,Small,Vikram,16.0,6.0,122,Yes,Positive,0,0.0,2025-09-27,41.0,Cold,221
+LEAD_0785,LinkedIn,East,Finance,Medium,Neha,18.0,14.0,22,No,Negative,1,82119.62,2026-01-06,57.0,Hot,120
+LEAD_0786,Referral,North,Healthcare,Enterprise,Priya,13.0,0.0,136,No,Negative,0,0.0,2025-12-25,26.0,Cold,132
+LEAD_0787,LinkedIn,North,Education,Medium,Rahul,0.0,5.0,66,Yes,Positive,0,0.0,2025-05-10,7.5,Warm,361
+LEAD_0788,Referral,South,Technology,Large,Priya,0.0,22.0,15,No,Negative,0,0.0,2025-02-19,33.0,Hot,441
+LEAD_0789,Cold Call,West,Healthcare,Large,Sneha,3.0,1.0,52,Yes,No Response,0,0.0,2026-04-18,7.5,Warm,18
+LEAD_0790,Referral,Central,Education,Enterprise,Amit,8.0,1.0,82,No,No Response,0,0.0,2024-10-22,17.5,Warm,561
+LEAD_0791,Referral,North,Retail,Medium,Amit,8.0,17.0,151,Yes,Positive,0,0.0,2024-08-14,41.5,Cold,630
+LEAD_0792,Cold Call,East,Education,Enterprise,Sneha,2.0,27.0,163,Yes,Positive,1,99474.88,2026-01-19,44.5,Cold,107
+LEAD_0793,Cold Call,South,Education,Enterprise,Vikram,14.0,0.0,1,No,No Response,0,0.0,2025-01-07,28.0,Hot,484
+LEAD_0794,Cold Call,North,Technology,Enterprise,Rahul,19.0,8.0,175,No,Negative,0,0.0,2025-07-26,50.0,Cold,284
+LEAD_0795,Email Campaign,East,Technology,Medium,Neha,17.0,18.0,18,No,Positive,1,35849.35,2025-11-21,61.0,Hot,166
+LEAD_0796,LinkedIn,South,Education,Large,Sneha,6.0,19.0,130,No,No Response,0,0.0,2025-03-23,40.5,Cold,409
+LEAD_0797,Referral,East,Finance,Large,Rahul,6.0,14.0,154,No,Positive,1,97099.63,2025-01-28,33.0,Cold,463
+LEAD_0798,LinkedIn,Central,Retail,Small,Amit,5.0,13.0,143,No,Negative,1,24390.23,2024-11-10,29.5,Cold,542
+LEAD_0799,LinkedIn,Central,Technology,Enterprise,Neha,3.0,11.0,97,No,Negative,0,0.0,2026-03-19,22.5,Cold,48
+LEAD_0800,LinkedIn,North,Retail,Large,Priya,14.0,0.0,57,Yes,Negative,0,0.0,2026-04-04,28.0,Warm,32
+LEAD_0801,Cold Call,North,Education,Large,Neha,7.0,7.0,127,No,Positive,1,107833.68,2025-04-25,24.5,Cold,376
+LEAD_0802,Email Campaign,South,Technology,Medium,Neha,12.0,3.0,72,No,Positive,0,0.0,2024-12-08,28.5,Warm,514
+LEAD_0803,Email Campaign,Central,Education,Medium,Amit,18.0,4.0,17,Yes,Negative,0,0.0,2026-02-24,42.0,Hot,71
+LEAD_0804,Email Campaign,East,Finance,Small,Neha,17.0,19.0,65,No,Positive,1,129044.45,2025-07-13,62.5,Warm,297
+LEAD_0805,LinkedIn,East,Retail,Enterprise,Rahul,3.0,21.0,133,No,Negative,1,97940.11,2024-08-14,37.5,Cold,630
+LEAD_0806,LinkedIn,South,Technology,Large,Sneha,17.0,14.0,81,Yes,Negative,0,0.0,2024-06-25,55.0,Warm,680
+LEAD_0807,LinkedIn,Central,Technology,Medium,Neha,13.0,30.0,20,Yes,Positive,0,0.0,2024-09-27,71.0,Hot,586
+LEAD_0808,Website,North,Technology,Small,Sneha,13.0,25.0,7,No,Negative,0,0.0,2025-10-30,63.5,Hot,188
+LEAD_0809,Referral,South,Healthcare,Small,Rahul,16.0,25.0,61,Yes,No Response,0,0.0,2026-02-26,69.5,Warm,69
+LEAD_0810,LinkedIn,West,Education,Small,Amit,1.0,29.0,9,No,Negative,0,0.0,2024-07-06,45.5,Hot,669
+LEAD_0811,Cold Call,North,Retail,Small,Rahul,19.0,20.0,111,Yes,Positive,1,105537.73,2024-10-03,68.0,Cold,580
+LEAD_0812,Website,West,Retail,Small,Vikram,13.0,7.0,154,Yes,Negative,1,86092.42,2025-12-08,36.5,Cold,149
+LEAD_0813,Referral,Central,Education,Small,Rahul,20.0,30.0,173,Yes,Negative,0,0.0,2025-12-15,85.0,Cold,142
+LEAD_0814,Email Campaign,South,Technology,Small,Amit,19.0,22.0,18,Yes,No Response,0,0.0,2025-01-12,71.0,Hot,479
+LEAD_0815,Email Campaign,East,Healthcare,Enterprise,Sneha,19.0,14.0,48,Yes,Positive,0,0.0,2024-08-07,59.0,Warm,637
+LEAD_0816,Website,Central,Retail,Large,Rahul,18.0,28.0,139,Yes,Positive,1,13771.22,2024-09-03,78.0,Cold,610
+LEAD_0817,Email Campaign,East,Healthcare,Large,Amit,16.0,18.0,169,Yes,Positive,0,0.0,2025-01-16,59.0,Cold,475
+LEAD_0818,Email Campaign,North,Retail,Large,Priya,6.0,20.0,52,Yes,Negative,0,0.0,2025-10-06,42.0,Warm,212
+LEAD_0819,Referral,West,Education,Large,Vikram,18.0,30.0,86,No,Negative,0,0.0,2025-05-18,81.0,Warm,353
+LEAD_0820,LinkedIn,West,Technology,Enterprise,Priya,0.0,20.0,58,Yes,Negative,0,0.0,2024-12-08,30.0,Warm,514
+LEAD_0821,Cold Call,West,Healthcare,Enterprise,Priya,12.0,5.0,2,No,Positive,0,0.0,2024-06-12,31.5,Hot,693
+LEAD_0822,LinkedIn,Central,Technology,Medium,Rahul,14.0,6.0,162,No,Positive,0,0.0,2025-01-25,37.0,Cold,466
+LEAD_0823,Website,South,Finance,Large,Neha,5.0,10.0,142,Yes,Positive,1,33872.82,2025-06-20,25.0,Cold,320
+LEAD_0824,Cold Call,East,Technology,Small,Neha,4.0,12.0,168,Yes,Negative,0,0.0,2024-12-27,26.0,Cold,495
+LEAD_0825,Cold Call,East,Healthcare,Medium,Vikram,19.0,28.0,112,Yes,Positive,1,49235.49,2025-10-04,80.0,Cold,214
+LEAD_0826,Cold Call,South,Finance,Enterprise,Neha,11.0,10.0,154,No,No Response,0,0.0,2026-01-02,37.0,Cold,124
+LEAD_0827,LinkedIn,Central,Education,Medium,Vikram,9.0,25.0,39,No,Positive,0,0.0,2025-09-23,55.5,Warm,225
+LEAD_0828,Website,South,Education,Enterprise,Priya,2.0,25.0,121,Yes,No Response,0,0.0,2026-02-17,41.5,Cold,78
+LEAD_0829,Email Campaign,East,Retail,Enterprise,Priya,10.0,22.0,96,No,No Response,0,0.0,2025-09-10,53.0,Cold,238
+LEAD_0830,Email Campaign,West,Education,Small,Priya,7.0,28.0,52,No,Positive,1,73694.93,2025-03-18,56.0,Warm,414
+LEAD_0831,Website,West,Retail,Medium,Rahul,8.0,17.0,22,Yes,Positive,0,0.0,2024-07-19,41.5,Hot,656
+LEAD_0832,Email Campaign,East,Finance,Small,Sneha,16.0,19.0,87,No,Negative,0,0.0,2025-06-22,60.5,Warm,318
+LEAD_0833,Referral,East,Retail,Large,Rahul,12.0,0.0,46,No,Positive,0,0.0,2024-06-25,24.0,Warm,680
+LEAD_0834,LinkedIn,East,Technology,Large,Vikram,16.0,17.0,165,Yes,Negative,0,0.0,2024-08-07,57.5,Cold,637
+LEAD_0835,LinkedIn,East,Technology,Medium,Rahul,6.0,21.0,85,No,Negative,1,19269.32,2024-12-05,43.5,Warm,517
+LEAD_0836,Website,South,Education,Medium,Neha,17.0,29.0,67,Yes,Negative,1,116430.01,2025-11-30,77.5,Warm,157
+LEAD_0837,Website,West,Retail,Small,Sneha,20.0,16.0,39,No,Positive,0,0.0,2025-06-18,64.0,Warm,322
+LEAD_0838,Cold Call,West,Finance,Enterprise,Neha,0.0,10.0,22,No,Positive,0,0.0,2026-02-22,15.0,Hot,73
+LEAD_0839,Referral,South,Retail,Enterprise,Vikram,0.0,11.0,36,Yes,Negative,0,0.0,2025-04-25,16.5,Warm,376
+LEAD_0840,Website,East,Finance,Enterprise,Sneha,12.0,24.0,177,No,Negative,1,6403.77,2025-10-17,60.0,Cold,201
+LEAD_0841,Email Campaign,North,Finance,Medium,Rahul,18.0,20.0,155,No,Negative,0,0.0,2024-05-20,66.0,Cold,716
+LEAD_0842,Referral,North,Education,Enterprise,Priya,15.0,3.0,85,No,No Response,0,0.0,2025-05-31,34.5,Warm,340
+LEAD_0843,LinkedIn,Central,Finance,Small,Neha,19.0,15.0,7,Yes,Positive,1,18520.02,2025-08-07,60.5,Hot,272
+LEAD_0844,Referral,East,Finance,Medium,Rahul,16.0,2.0,117,Yes,Negative,0,0.0,2025-11-08,35.0,Cold,179
+LEAD_0845,Cold Call,East,Retail,Enterprise,Priya,3.0,4.0,138,No,Negative,0,0.0,2024-05-22,12.0,Cold,714
+LEAD_0846,Cold Call,South,Finance,Large,Sneha,15.0,5.0,155,No,No Response,1,61403.97,2025-03-26,37.5,Cold,406
+LEAD_0847,Referral,East,Finance,Small,Priya,14.0,2.0,103,Yes,No Response,0,0.0,2024-06-25,31.0,Cold,680
+LEAD_0848,Email Campaign,West,Retail,Enterprise,Vikram,1.0,23.0,24,No,No Response,0,0.0,2026-01-04,36.5,Hot,122
+LEAD_0849,Website,West,Education,Medium,Sneha,7.0,5.0,159,No,Negative,1,71164.46,2026-01-24,21.5,Cold,102
+LEAD_0850,Cold Call,Central,Technology,Enterprise,Neha,1.0,7.0,41,No,No Response,0,0.0,2024-05-14,12.5,Warm,722
+LEAD_0851,LinkedIn,South,Retail,Enterprise,Vikram,3.0,11.0,20,Yes,No Response,0,0.0,2026-03-05,22.5,Hot,62
+LEAD_0852,Referral,South,Healthcare,Medium,Vikram,1.0,14.0,7,Yes,No Response,1,52271.9,2026-02-17,23.0,Hot,78
+LEAD_0853,Referral,East,Retail,Medium,Sneha,1.0,0.0,65,Yes,No Response,1,113711.74,2024-08-01,2.0,Warm,643
+LEAD_0854,Referral,West,Retail,Small,Amit,17.0,21.0,63,No,Positive,1,52431.0,2026-02-24,65.5,Warm,71
+LEAD_0855,Website,South,Finance,Small,Vikram,3.0,5.0,76,Yes,No Response,0,0.0,2024-05-09,13.5,Warm,727
+LEAD_0856,LinkedIn,East,Finance,Enterprise,Rahul,5.0,6.0,9,Yes,Negative,1,29425.74,2025-10-10,19.0,Hot,208
+LEAD_0857,Email Campaign,North,Retail,Large,Sneha,1.0,19.0,2,Yes,Negative,1,126292.67,2026-02-27,30.5,Hot,68
+LEAD_0858,Website,South,Finance,Small,Amit,13.0,0.0,4,No,Positive,1,139678.98,2025-12-26,26.0,Hot,131
+LEAD_0859,LinkedIn,South,Finance,Small,Sneha,16.0,3.0,84,No,No Response,1,14159.87,2024-05-17,36.5,Warm,719
+LEAD_0860,Email Campaign,South,Education,Enterprise,Sneha,3.0,7.0,55,Yes,Negative,0,0.0,2024-09-10,16.5,Warm,603
+LEAD_0861,LinkedIn,West,Healthcare,Small,Sneha,6.0,14.0,57,Yes,No Response,0,0.0,2025-11-08,33.0,Warm,179
+LEAD_0862,Website,North,Technology,Medium,Sneha,9.0,24.0,154,No,Positive,1,99242.02,2025-08-03,54.0,Cold,276
+LEAD_0863,Email Campaign,South,Healthcare,Small,Vikram,10.0,20.0,179,No,No Response,1,119732.67,2024-07-31,50.0,Cold,644
+LEAD_0864,Cold Call,East,Finance,Large,Neha,15.0,2.0,86,Yes,No Response,1,116853.93,2024-08-30,33.0,Warm,614
+LEAD_0865,Email Campaign,South,Education,Small,Priya,0.0,19.0,32,No,Positive,1,70092.18,2025-04-21,28.5,Warm,380
+LEAD_0866,Email Campaign,North,Technology,Medium,Rahul,15.0,9.0,52,Yes,Negative,1,114800.63,2024-05-20,43.5,Warm,716
+LEAD_0867,LinkedIn,South,Education,Enterprise,Neha,10.0,4.0,72,No,No Response,0,0.0,2025-01-17,26.0,Warm,474
+LEAD_0868,Referral,East,Technology,Medium,Neha,10.0,10.0,63,Yes,No Response,1,10743.08,2025-01-21,35.0,Warm,470
+LEAD_0869,Cold Call,South,Education,Enterprise,Vikram,10.0,5.0,114,Yes,Positive,0,0.0,2025-07-23,27.5,Cold,287
+LEAD_0870,Cold Call,North,Finance,Medium,Priya,2.0,5.0,152,Yes,Positive,1,15147.81,2024-10-06,11.5,Cold,577
+LEAD_0871,Referral,West,Healthcare,Medium,Neha,6.0,7.0,109,Yes,No Response,0,0.0,2025-02-22,22.5,Cold,438
+LEAD_0872,Website,Central,Retail,Medium,Rahul,15.0,2.0,93,No,Negative,0,0.0,2024-08-12,33.0,Cold,632
+LEAD_0873,Referral,West,Education,Enterprise,Priya,15.0,0.0,98,No,Positive,0,0.0,2024-09-02,30.0,Cold,611
+LEAD_0874,Email Campaign,Central,Finance,Medium,Rahul,12.0,14.0,79,No,Negative,1,138622.21,2024-07-04,45.0,Warm,671
+LEAD_0875,Email Campaign,West,Technology,Large,Priya,0.0,6.0,40,Yes,Positive,0,0.0,2025-04-03,9.0,Warm,398
+LEAD_0876,Email Campaign,East,Retail,Enterprise,Sneha,12.0,23.0,96,No,Negative,0,0.0,2024-09-21,58.5,Cold,592
+LEAD_0877,Email Campaign,North,Retail,Small,Amit,12.0,29.0,145,Yes,Positive,0,0.0,2026-04-24,67.5,Cold,12
+LEAD_0878,Website,Central,Retail,Large,Neha,1.0,20.0,99,No,No Response,1,143779.05,2025-07-03,32.0,Cold,307
+LEAD_0879,Referral,North,Healthcare,Small,Neha,20.0,4.0,67,No,No Response,0,0.0,2026-02-08,46.0,Warm,87
+LEAD_0880,Cold Call,Central,Education,Medium,Amit,3.0,24.0,24,No,Negative,0,0.0,2024-06-21,42.0,Hot,684
+LEAD_0881,LinkedIn,Central,Finance,Enterprise,Priya,13.0,8.0,178,No,No Response,1,146251.11,2024-12-09,38.0,Cold,513
+LEAD_0882,Referral,Central,Healthcare,Enterprise,Neha,2.0,3.0,163,No,Positive,1,100480.48,2024-07-10,8.5,Cold,665
+LEAD_0883,Cold Call,West,Healthcare,Small,Priya,15.0,0.0,25,Yes,No Response,0,0.0,2024-11-05,30.0,Hot,547
+LEAD_0884,Referral,East,Retail,Medium,Priya,11.0,5.0,35,Yes,Negative,0,0.0,2025-05-05,29.5,Warm,366
+LEAD_0885,LinkedIn,West,Education,Medium,Priya,6.0,1.0,47,Yes,Negative,0,0.0,2024-10-17,13.5,Warm,566
+LEAD_0886,Referral,Central,Technology,Medium,Amit,9.0,2.0,97,Yes,Negative,1,131384.25,2024-08-19,21.0,Cold,625
+LEAD_0887,LinkedIn,Central,Finance,Enterprise,Sneha,3.0,0.0,16,No,Positive,0,0.0,2026-03-27,6.0,Hot,40
+LEAD_0888,LinkedIn,North,Finance,Small,Sneha,19.0,16.0,69,No,Negative,1,119435.04,2024-10-21,62.0,Warm,562
+LEAD_0889,Website,East,Healthcare,Large,Priya,11.0,21.0,103,No,No Response,1,92633.87,2025-09-18,53.5,Cold,230
+LEAD_0890,Website,East,Technology,Small,Sneha,12.0,23.0,36,Yes,No Response,0,0.0,2026-04-26,58.5,Warm,10
+LEAD_0891,Email Campaign,East,Finance,Large,Sneha,19.0,21.0,169,No,No Response,0,0.0,2026-01-20,69.5,Cold,106
+LEAD_0892,Cold Call,North,Healthcare,Small,Neha,11.0,27.0,12,No,No Response,0,0.0,2025-07-30,62.5,Hot,280
+LEAD_0893,Email Campaign,West,Retail,Small,Rahul,13.0,30.0,122,Yes,No Response,0,0.0,2024-10-21,71.0,Cold,562
+LEAD_0894,Email Campaign,South,Finance,Small,Priya,15.0,25.0,23,No,No Response,0,0.0,2024-10-28,67.5,Hot,555
+LEAD_0895,Referral,South,Retail,Small,Sneha,17.0,7.0,63,Yes,No Response,1,148146.84,2025-12-15,44.5,Warm,142
+LEAD_0896,LinkedIn,North,Retail,Small,Priya,0.0,28.0,99,No,Positive,1,100663.04,2025-12-28,42.0,Cold,129
+LEAD_0897,LinkedIn,South,Education,Enterprise,Amit,10.0,27.0,58,Yes,No Response,1,101560.24,2025-12-10,60.5,Warm,147
+LEAD_0898,Referral,Central,Retail,Medium,Priya,8.0,3.0,75,Yes,Positive,0,0.0,2026-02-14,20.5,Warm,81
+LEAD_0899,Email Campaign,South,Technology,Large,Priya,10.0,30.0,98,Yes,Negative,0,0.0,2024-07-31,65.0,Cold,644
+LEAD_0900,Email Campaign,South,Retail,Enterprise,Rahul,11.0,25.0,174,Yes,No Response,0,0.0,2025-10-30,59.5,Cold,188
+LEAD_0901,LinkedIn,West,Technology,Enterprise,Rahul,4.0,26.0,76,Yes,Negative,1,90662.52,2024-12-30,47.0,Warm,492
+LEAD_0902,Website,South,Technology,Large,Rahul,16.0,22.0,32,No,No Response,1,26376.68,2026-01-09,65.0,Warm,117
+LEAD_0903,Cold Call,West,Healthcare,Enterprise,Amit,10.0,4.0,54,Yes,No Response,0,0.0,2025-06-25,26.0,Warm,315
+LEAD_0904,Cold Call,West,Retail,Large,Neha,5.0,0.0,141,No,Negative,1,138857.89,2025-10-30,10.0,Cold,188
+LEAD_0905,Referral,East,Retail,Enterprise,Amit,16.0,23.0,73,No,No Response,0,0.0,2025-08-18,66.5,Warm,261
+LEAD_0906,Email Campaign,West,Technology,Medium,Rahul,18.0,27.0,14,No,Negative,1,106660.76,2025-03-24,76.5,Hot,408
+LEAD_0907,Referral,West,Healthcare,Medium,Priya,6.0,25.0,51,Yes,Negative,1,88687.82,2024-06-12,49.5,Warm,693
+LEAD_0908,Cold Call,West,Retail,Medium,Amit,3.0,11.0,122,Yes,Positive,1,88473.9,2024-12-19,22.5,Cold,503
+LEAD_0909,Email Campaign,East,Education,Enterprise,Priya,20.0,23.0,104,Yes,Positive,0,0.0,2026-05-01,74.5,Cold,5
+LEAD_0910,Referral,West,Healthcare,Medium,Neha,12.0,24.0,178,Yes,Negative,0,0.0,2025-09-11,60.0,Cold,237
+LEAD_0911,Website,West,Healthcare,Small,Amit,3.0,2.0,32,No,No Response,1,99295.09,2024-08-29,9.0,Warm,615
+LEAD_0912,LinkedIn,Central,Education,Enterprise,Rahul,3.0,25.0,152,Yes,Negative,1,78913.53,2025-10-11,43.5,Cold,207
+LEAD_0913,Referral,East,Education,Medium,Amit,10.0,2.0,138,Yes,Negative,0,0.0,2026-01-19,23.0,Cold,107
+LEAD_0914,Email Campaign,Central,Education,Enterprise,Amit,16.0,26.0,150,Yes,Positive,1,7863.23,2026-05-02,71.0,Cold,4
+LEAD_0915,Cold Call,Central,Finance,Small,Vikram,14.0,25.0,81,Yes,Positive,1,135152.33,2025-02-19,65.5,Warm,441
+LEAD_0916,Cold Call,South,Technology,Large,Amit,2.0,3.0,130,No,Negative,0,0.0,2025-12-02,8.5,Cold,155
+LEAD_0917,LinkedIn,South,Healthcare,Small,Vikram,9.0,21.0,137,No,Positive,1,29882.46,2025-07-25,49.5,Cold,285
+LEAD_0918,Website,Central,Healthcare,Medium,Neha,3.0,21.0,12,Yes,Positive,0,0.0,2025-07-09,37.5,Hot,301
+LEAD_0919,Website,South,Finance,Medium,Vikram,11.0,8.0,33,No,Positive,0,0.0,2024-12-03,34.0,Warm,519
+LEAD_0920,Website,West,Finance,Enterprise,Sneha,2.0,30.0,66,No,No Response,0,0.0,2025-08-25,49.0,Warm,254
+LEAD_0921,Cold Call,North,Healthcare,Medium,Neha,11.0,18.0,169,Yes,Negative,0,0.0,2026-05-01,49.0,Cold,5
+LEAD_0922,Referral,West,Technology,Medium,Amit,0.0,3.0,137,Yes,No Response,1,50872.25,2024-06-11,4.5,Cold,694
+LEAD_0923,LinkedIn,East,Technology,Large,Rahul,8.0,4.0,58,No,Positive,0,0.0,2024-05-28,22.0,Warm,708
+LEAD_0924,Cold Call,West,Technology,Small,Priya,16.0,23.0,79,No,Positive,0,0.0,2025-11-01,66.5,Warm,186
+LEAD_0925,Email Campaign,East,Education,Large,Vikram,3.0,28.0,13,Yes,Negative,0,0.0,2025-08-04,48.0,Hot,275
+LEAD_0926,Website,Central,Education,Enterprise,Sneha,18.0,4.0,67,Yes,No Response,1,61486.68,2025-12-16,42.0,Warm,141
+LEAD_0927,Cold Call,South,Finance,Enterprise,Vikram,8.0,1.0,164,No,No Response,0,0.0,2024-10-14,17.5,Cold,569
+LEAD_0928,Referral,West,Finance,Enterprise,Rahul,14.0,16.0,74,No,Negative,1,103341.21,2025-01-17,52.0,Warm,474
+LEAD_0929,Cold Call,East,Technology,Large,Sneha,10.0,27.0,24,Yes,Positive,0,0.0,2025-03-16,60.5,Hot,416
+LEAD_0930,Cold Call,Central,Technology,Small,Neha,9.0,17.0,127,Yes,Negative,1,142005.71,2024-07-07,43.5,Cold,668
+LEAD_0931,Cold Call,West,Retail,Small,Sneha,0.0,19.0,49,Yes,No Response,1,140204.01,2024-07-14,28.5,Warm,661
+LEAD_0932,Email Campaign,East,Finance,Small,Vikram,14.0,30.0,44,Yes,Positive,0,0.0,2026-02-14,73.0,Warm,81
+LEAD_0933,Cold Call,Central,Healthcare,Small,Sneha,15.0,12.0,44,No,Positive,0,0.0,2024-06-16,48.0,Warm,689
+LEAD_0934,Cold Call,Central,Technology,Large,Rahul,15.0,9.0,68,Yes,Positive,0,0.0,2026-01-04,43.5,Warm,122
+LEAD_0935,Cold Call,East,Education,Small,Sneha,19.0,27.0,125,Yes,Negative,1,87482.08,2024-10-28,78.5,Cold,555
+LEAD_0936,Referral,East,Healthcare,Large,Amit,0.0,11.0,48,No,Negative,0,0.0,2025-02-12,16.5,Warm,448
+LEAD_0937,Referral,West,Finance,Small,Vikram,16.0,28.0,40,No,Positive,0,0.0,2025-03-05,74.0,Warm,427
+LEAD_0938,Website,South,Retail,Enterprise,Rahul,9.0,11.0,110,Yes,No Response,1,6002.02,2025-12-10,34.5,Cold,147
+LEAD_0939,Referral,West,Finance,Medium,Rahul,13.0,0.0,92,Yes,Positive,1,20760.77,2025-02-03,26.0,Cold,457
+LEAD_0940,LinkedIn,South,Retail,Enterprise,Neha,0.0,28.0,9,Yes,No Response,0,0.0,2024-09-22,42.0,Hot,591
+LEAD_0941,Referral,East,Technology,Enterprise,Sneha,17.0,15.0,175,Yes,Negative,0,0.0,2025-11-21,56.5,Cold,166
+LEAD_0942,Referral,Central,Retail,Medium,Amit,3.0,25.0,6,Yes,Positive,1,118148.94,2024-07-27,43.5,Hot,648
+LEAD_0943,LinkedIn,South,Technology,Large,Sneha,19.0,23.0,3,No,Negative,0,0.0,2024-12-28,72.5,Hot,494
+LEAD_0944,Referral,North,Retail,Medium,Vikram,4.0,23.0,131,Yes,Positive,0,0.0,2025-03-18,42.5,Cold,414
+LEAD_0945,LinkedIn,East,Finance,Enterprise,Priya,0.0,22.0,27,Yes,Positive,0,0.0,2025-03-30,33.0,Hot,402
+LEAD_0946,Cold Call,South,Technology,Medium,Sneha,1.0,8.0,50,Yes,Negative,1,90723.45,2024-10-12,14.0,Warm,571
+LEAD_0947,Cold Call,North,Technology,Enterprise,Sneha,16.0,9.0,180,Yes,Positive,0,0.0,2024-06-24,45.5,Cold,681
+LEAD_0948,Referral,North,Education,Enterprise,Neha,1.0,9.0,29,No,Negative,0,0.0,2024-06-06,15.5,Hot,699
+LEAD_0949,Website,West,Finance,Large,Amit,5.0,1.0,1,Yes,No Response,0,0.0,2025-12-10,11.5,Hot,147
+LEAD_0950,Referral,East,Education,Small,Sneha,5.0,8.0,126,No,Negative,1,35736.74,2024-08-23,22.0,Cold,621
+LEAD_0951,LinkedIn,North,Education,Medium,Rahul,11.0,23.0,93,No,Positive,0,0.0,2025-01-02,56.5,Cold,489
+LEAD_0952,Referral,North,Technology,Medium,Neha,19.0,3.0,11,Yes,Positive,1,35454.83,2025-07-11,42.5,Hot,299
+LEAD_0953,LinkedIn,Central,Education,Large,Rahul,15.0,24.0,52,Yes,Positive,1,139197.59,2025-03-26,66.0,Warm,406
+LEAD_0954,Referral,Central,Healthcare,Large,Rahul,14.0,20.0,31,No,Positive,0,0.0,2024-06-05,58.0,Warm,700
+LEAD_0955,Email Campaign,Central,Technology,Medium,Vikram,8.0,22.0,34,No,Positive,0,0.0,2025-10-08,49.0,Warm,210
+LEAD_0956,Cold Call,West,Retail,Small,Priya,14.0,24.0,131,No,No Response,1,13815.04,2025-11-15,64.0,Cold,172
+LEAD_0957,Website,South,Finance,Small,Priya,18.0,6.0,152,Yes,No Response,1,63123.1,2024-07-25,45.0,Cold,650
+LEAD_0958,Email Campaign,East,Healthcare,Medium,Rahul,8.0,17.0,31,Yes,Positive,0,0.0,2026-01-04,41.5,Warm,122
+LEAD_0959,Cold Call,East,Technology,Medium,Rahul,4.0,8.0,14,Yes,No Response,0,0.0,2025-11-23,20.0,Hot,164
+LEAD_0960,LinkedIn,East,Education,Large,Rahul,2.0,30.0,141,No,No Response,0,0.0,2024-12-14,49.0,Cold,508
+LEAD_0961,Email Campaign,East,Healthcare,Small,Neha,0.0,26.0,92,Yes,No Response,0,0.0,2024-10-19,39.0,Cold,564
+LEAD_0962,LinkedIn,Central,Education,Small,Neha,12.0,30.0,168,No,No Response,1,30626.61,2026-02-20,69.0,Cold,75
+LEAD_0963,Email Campaign,South,Retail,Medium,Rahul,8.0,6.0,149,No,Positive,0,0.0,2025-11-09,25.0,Cold,178
+LEAD_0964,Referral,East,Finance,Enterprise,Amit,15.0,5.0,118,Yes,Positive,0,0.0,2024-06-16,37.5,Cold,689
+LEAD_0965,Referral,South,Healthcare,Small,Rahul,5.0,28.0,46,No,No Response,0,0.0,2026-01-07,52.0,Warm,119
+LEAD_0966,LinkedIn,South,Technology,Enterprise,Priya,14.0,29.0,166,No,Positive,0,0.0,2024-08-17,71.5,Cold,627
+LEAD_0967,LinkedIn,Central,Technology,Enterprise,Sneha,0.0,3.0,4,Yes,Positive,1,24907.24,2025-02-16,4.5,Hot,444
+LEAD_0968,LinkedIn,East,Finance,Small,Amit,3.0,17.0,87,Yes,Positive,0,0.0,2025-02-04,31.5,Warm,456
+LEAD_0969,Email Campaign,West,Finance,Large,Rahul,15.0,4.0,63,Yes,No Response,0,0.0,2024-12-04,36.0,Warm,518
+LEAD_0970,LinkedIn,North,Technology,Small,Vikram,9.0,3.0,131,No,Positive,1,95985.45,2026-04-16,22.5,Cold,20
+LEAD_0971,Cold Call,North,Finance,Enterprise,Sneha,4.0,11.0,168,No,Positive,0,0.0,2024-05-10,24.5,Cold,726
+LEAD_0972,LinkedIn,West,Finance,Small,Priya,3.0,0.0,73,No,Positive,1,104240.53,2024-06-11,6.0,Warm,694
+LEAD_0973,LinkedIn,East,Technology,Small,Vikram,4.0,5.0,110,No,No Response,0,0.0,2026-04-06,15.5,Cold,30
+LEAD_0974,Referral,South,Healthcare,Large,Rahul,3.0,8.0,128,No,Negative,0,0.0,2024-06-15,18.0,Cold,690
+LEAD_0975,LinkedIn,North,Finance,Medium,Rahul,4.0,12.0,115,No,Positive,1,108139.47,2025-08-06,26.0,Cold,273
+LEAD_0976,Referral,East,Finance,Small,Rahul,4.0,5.0,99,No,No Response,0,0.0,2025-02-28,15.5,Cold,432
+LEAD_0977,Referral,West,Education,Large,Priya,20.0,29.0,63,No,Negative,0,0.0,2024-08-04,83.5,Warm,640
+LEAD_0978,Email Campaign,Central,Retail,Medium,Sneha,2.0,18.0,108,Yes,No Response,0,0.0,2025-05-21,31.0,Cold,350
+LEAD_0979,Website,North,Finance,Small,Rahul,17.0,15.0,35,Yes,Positive,0,0.0,2024-06-09,56.5,Warm,696
+LEAD_0980,Cold Call,East,Retail,Medium,Vikram,13.0,7.0,54,Yes,Positive,1,57324.49,2025-06-25,36.5,Warm,315
+LEAD_0981,Cold Call,West,Technology,Enterprise,Rahul,1.0,22.0,28,Yes,Negative,1,21999.19,2024-08-09,35.0,Hot,635
+LEAD_0982,LinkedIn,South,Healthcare,Medium,Amit,7.0,2.0,4,No,Positive,1,131219.16,2024-10-07,17.0,Hot,576
+LEAD_0983,Cold Call,Central,Healthcare,Enterprise,Sneha,0.0,14.0,166,Yes,Negative,1,73115.89,2025-03-15,21.0,Cold,417
+LEAD_0984,LinkedIn,North,Education,Medium,Vikram,5.0,0.0,102,No,No Response,0,0.0,2025-02-22,10.0,Cold,438
+LEAD_0985,Website,Central,Education,Large,Neha,7.0,13.0,41,No,Positive,1,70872.99,2025-10-20,33.5,Warm,198
+LEAD_0986,Cold Call,South,Retail,Small,Priya,12.0,5.0,144,Yes,No Response,0,0.0,2025-04-18,31.5,Cold,383
+LEAD_0987,Website,West,Retail,Medium,Amit,11.0,20.0,109,Yes,Negative,0,0.0,2025-08-21,52.0,Cold,258
+LEAD_0988,LinkedIn,East,Education,Large,Amit,7.0,9.0,42,Yes,Positive,0,0.0,2026-02-01,27.5,Warm,94
+LEAD_0989,LinkedIn,East,Finance,Medium,Neha,1.0,7.0,69,Yes,No Response,0,0.0,2025-10-06,12.5,Warm,212
+LEAD_0990,Email Campaign,West,Technology,Small,Rahul,2.0,30.0,80,Yes,Negative,0,0.0,2024-05-18,49.0,Warm,718
+LEAD_0991,Email Campaign,South,Healthcare,Enterprise,Neha,11.0,4.0,180,Yes,Negative,1,144017.16,2025-01-22,28.0,Cold,469
+LEAD_0992,Email Campaign,North,Education,Medium,Amit,18.0,25.0,98,No,No Response,0,0.0,2025-09-18,73.5,Cold,230
+LEAD_0993,Cold Call,South,Retail,Small,Neha,2.0,30.0,60,Yes,No Response,1,10424.2,2025-08-22,49.0,Warm,257
+LEAD_0994,Cold Call,Central,Education,Large,Sneha,4.0,10.0,75,No,No Response,1,116479.73,2024-12-11,23.0,Warm,511
+LEAD_0995,Referral,South,Finance,Small,Priya,18.0,20.0,128,Yes,Positive,1,67480.71,2025-07-22,66.0,Cold,288
+LEAD_0996,Website,Central,Technology,Enterprise,Amit,14.0,10.0,44,No,Positive,0,0.0,2026-03-08,43.0,Warm,59
+LEAD_0997,Email Campaign,East,Healthcare,Small,Amit,5.0,22.0,118,No,Negative,0,0.0,2024-05-10,43.0,Cold,726
+LEAD_0998,Referral,South,Technology,Enterprise,Amit,11.0,27.0,74,No,Negative,1,115656.22,2025-12-02,62.5,Warm,155
+LEAD_0999,Cold Call,West,Healthcare,Large,Rahul,2.0,21.0,106,No,Negative,1,137985.32,2025-03-13,35.5,Cold,419
+LEAD_1000,LinkedIn,Central,Technology,Medium,Neha,17.0,0.0,40,Yes,Negative,1,148730.98,2024-09-18,34.0,Warm,595
